@@ -17,7 +17,7 @@ wget https://raw.githubusercontent.com/zzCx5JZ1Ce/subscription/main/storage/pack
 chmod +x cloudflare-ddns-updater.sh
 crontab -e
 [select Nano: 1]
-@reboot sleep 10 &&/root/cloudflare-ddns-updater.sh && sleep 30 && /root/cloudflare-ddns-updater.sh && sleep 2m && /root/cloudflare-ddns-updater.sh
+@reboot sleep 10 && /root/cloudflare-ddns-updater.sh && sleep 30 && /root/cloudflare-ddns-updater.sh && sleep 2m && /root/cloudflare-ddns-updater.sh
 ```
 ```
 - Folder
