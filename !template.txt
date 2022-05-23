@@ -1,0 +1,14 @@
+{
+  "v": "2",
+  "ps": "--- USER_NAME ---",
+  "add": "kamvdta.xyz",
+  "port": 80,
+  "id": "USER_ID",
+  "aid": 0,
+  "email": "USER_ID",
+  "net": "tcp",
+  "type": "http",
+  "host": "SNI",
+  "path": "/kamvdta",
+  "tls": "none"
+}
