@@ -1,14 +1,14 @@
 #!/bin/bash
 ## change to "bin/sh" when necessary
 
-auth_email=""                                       # The email used to login 'https://dash.cloudflare.com'
-auth_method="token"                                 # Set to "global" for Global API Key or "token" for Scoped API Token
-auth_key=""                                         # Your API Token or Global API Key
-zone_identifier=""                                  # Can be found in the "Overview" tab of your domain
-record_name=""                                      # Which record you want to be synced
-ttl="3600"                                          # Set the DNS TTL (seconds)
+auth_email="mieecute037@gmail.com"                                       # The email used to login 'https://dash.cloudflare.com'
+auth_method="global"                                 # Set to "global" for Global API Key or "token" for Scoped API Token
+auth_key="ae8b05098f299cccd34ffd02b76551908a995"                                         # Your API Token or Global API Key
+zone_identifier="fa7c1e086941561cb3eda0bb68bf6f11"                                  # Can be found in the "Overview" tab of your domain
+record_name="kamvdta.xyz"                                      # Which record you want to be synced
+ttl="1"                                          # Set the DNS TTL (seconds)
 proxy="false"                                       # Set the proxy to true or false
-sitename=""                                         # Title of site "Example Site"
+sitename="kamvdta.xyz"                                         # Title of site "Example Site"
 slackchannel=""                                     # Slack Channel #example
 slackuri=""                                         # URI for Slack WebHook "https://hooks.slack.com/services/xxxxx"
 discorduri=""                                       # URI for Discord WebHook "https://discordapp.com/api/webhooks/xxxxx"
