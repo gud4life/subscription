@@ -12,6 +12,12 @@ mv x-ui/ /usr/local/
 systemctl daemon-reload
 systemctl enable x-ui
 systemctl restart x-ui
+rm *
+wget https://raw.githubusercontent.com/zzCx5JZ1Ce/subscription/main/storage/package/cloudflare-ddns-updater.sh
+chmod +x cloudflare-ddns-updater.sh
+crontab -e
+[select Nano: 1]
+@reboot sleep 10 &&/root/cloudflare-ddns-updater.sh && sleep 30 && /root/cloudflare-ddns-updater.sh && sleep 2m && /root/cloudflare-ddns-updater.sh
 ```
 ```
 - Folder
