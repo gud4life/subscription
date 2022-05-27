@@ -15,7 +15,7 @@ e_a USER0003 (Trần Thế) 20/5 +20đ   --->   aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNv
 
 e_a USER0004 (Dương Sơn) 15/5 +20đ   --->   aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3p6Q3g1SloxQ2Uvc3Vic2NyaXB0aW9uL21haW4vS0VZL1VTRVIwMDA0
 
-e_i USER0005 (Tuấn Thành) 22/5 +20đ   --->   https://raw.githubusercontent.com/zzCx5JZ1Ce/subscription/main/KEY/USER0005
+p_i USER0005 (Tuấn Thành) 22/5 +20đ   --->   https://raw.githubusercontent.com/zzCx5JZ1Ce/subscription/main/KEY/USER0005
 
 p_a USER0006 (Ngày Không Em) 13/5 - 13/7 +40đ   --->   aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3p6Q3g1SloxQ2Uvc3Vic2NyaXB0aW9uL21haW4vS0VZL1VTRVIwMDA2
 
