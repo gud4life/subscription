@@ -19,8 +19,6 @@ p_i USER0005 (Tuấn Thành) 22/5 +20đ   --->   https://raw.githubusercontent.c
 
 p_a USER0006 (Ngày Không Em) 13/5 - 13/7 +40đ   --->   aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3p6Q3g1SloxQ2Uvc3Vic2NyaXB0aW9uL21haW4vS0VZL1VTRVIwMDA2
 
-e_a USER0007 (Mạng) 14/5 - 16/5 Dùng thử   --->   aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3p6Q3g1SloxQ2Uvc3Vic2NyaXB0aW9uL21haW4vS0VZL1VTRVIwMDA3
-
 e_a USER0008 (Dũng + Lộc Nồi) FREE +0đ   --->   aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3p6Q3g1SloxQ2Uvc3Vic2NyaXB0aW9uL21haW4vS0VZL1VTRVIwMDA4
 
 e_a USER0009 (Việt Anh) 12/5 - 12/6 +30đ   --->   aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3p6Q3g1SloxQ2Uvc3Vic2NyaXB0aW9uL21haW4vS0VZL1VTRVIwMDA5
@@ -29,9 +27,9 @@ p_i USER0010 (ĐM 1) FREE +0đ   --->   https://raw.githubusercontent.com/zzCx5J
 
 p_i USER0011 (ĐM 2) FREE +0đ   --->   https://raw.githubusercontent.com/zzCx5JZ1Ce/subscription/main/KEY/USER0011
 
-p_i USER0012 (ĐM 3) 13/5 - 13/6 +0đ   --->   https://raw.githubusercontent.com/zzCx5JZ1Ce/subscription/main/KEY/USER0012
+p_i USER0012 (Nguyễn Hùng) 25/5 - 25/6 +0đ   --->   https://raw.githubusercontent.com/zzCx5JZ1Ce/subscription/main/KEY/USER0012
 
-p_i USER0013 (ĐM 4) 13/5 - 13/6 +0đ   --->   https://raw.githubusercontent.com/zzCx5JZ1Ce/subscription/main/KEY/USER0013
+p_i USER0013 (Tấn Phát) Dùng Thử +0đ   --->   https://raw.githubusercontent.com/zzCx5JZ1Ce/subscription/main/KEY/USER0013
 
 p_a USER0014 (ĐM 5)   --->   aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3p6Q3g1SloxQ2Uvc3Vic2NyaXB0aW9uL21haW4vS0VZL1VTRVIwMDE0
 
