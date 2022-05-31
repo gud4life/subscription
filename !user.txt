@@ -9,7 +9,6 @@ p_i USER0010 (ĐM 1)
 p_i USER0011 (Nguyễn Huy) <30/06/2022> Cộng tác +0đ
 p_i USER0012 (Nguyễn Hùng) <25/06/2022> +20đ
 p_i USER0013 (Tấn Phát) <30/06/2022> +20đ
-p_a USER0014 (ĐM 5)
 p_a USER0015 (ĐM 6)
 p_a USER0016 (ĐM 7)
 p_a USER0017 (ĐM 8)
