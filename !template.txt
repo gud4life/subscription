@@ -1,7 +1,7 @@
 {
   "v": "2",
   "ps": "--- USER_NAME ---",
-  "add": "kamvdta.xyz",
+  "add": "vn0.kamvdta.xyz",
   "port": 80,
   "id": "USER_ID",
   "aid": 0,

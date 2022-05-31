@@ -1,14 +1,14 @@
 e_a USER0001 (Phạm Cường)
-p_i USER0002 (Phước Đạt) <01/06/2022> +20đ
+p_i USER0002 (Phước Đạt) <01/01/2023> +20đ
 e_a USER0003 (Trần Thế)
 e_a USER0004 (Dương Sơn)
-p_i USER0005 (Tuấn Thành) <22/06/2022> +20đ
+b_i USER0005 (Tuấn Thành) <22/06/2022> +20đ
 p_a USER0006 (Ngày Không Em) <13/07/2022> +40đ
 e_i USER0009 (Việt Anh)
 p_i USER0010 (ĐM 1)
-p_i USER0011 (Nguyễn Huy) <01/07/2022> Cộng tác +0đ
-p_i USER0012 (Nguyễn Hùng) <25/07/2022> +20đ
-p_i USER0013 (Tấn Phát) <30/07/2022> +20đ
+p_i USER0011 (Nguyễn Huy) <30/06/2022> Cộng tác +0đ
+p_i USER0012 (Nguyễn Hùng) <25/06/2022> +20đ
+p_i USER0013 (Tấn Phát) <30/06/2022> +20đ
 p_a USER0014 (ĐM 5)
 p_a USER0015 (ĐM 6)
 p_a USER0016 (ĐM 7)
