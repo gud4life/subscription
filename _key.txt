@@ -7,7 +7,7 @@ vip.adr   --->   aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3p6Q3g1SloxQ2Uvc3V
 
 vip.ios   --->   https://raw.githubusercontent.com/zzCx5JZ1Ce/subscription/main/vip.ios
 
-e_a USER0001 (Phạm Cường)   --->   aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3p6Q3g1SloxQ2Uvc3Vic2NyaXB0aW9uL21haW4vS0VZL1VTRVIwMDAx
+p_a USER0000 (Me) <01/01/2023> -999đ   --->   aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3p6Q3g1SloxQ2Uvc3Vic2NyaXB0aW9uL21haW4vS0VZL1VTRVIwMDAw
 
 p_i USER0002 (Phước Đạt) <01/01/2023> +20đ   --->   https://raw.githubusercontent.com/zzCx5JZ1Ce/subscription/main/KEY/USER0002
 

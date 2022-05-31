@@ -1,4 +1,4 @@
-e_a USER0001 (Phạm Cường)
+p_a USER0000 (Me) <01/01/2023> -999đ
 p_i USER0002 (Phước Đạt) <01/01/2023> +20đ
 e_a USER0003 (Trần Thế)
 e_a USER0004 (Dương Sơn)
