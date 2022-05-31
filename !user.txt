@@ -7,7 +7,7 @@ p_a USER0006 (Ngày Không Em) 13/5 - 13/7 +40đ
 e_a USER0008 (Dũng + Lộc Nồi) FREE +0đ
 e_a USER0009 (Việt Anh) 12/5 - 12/6 +30đ
 p_i USER0010 (ĐM 1) FREE +0đ
-p_i USER0011 (ĐM 2) FREE +0đ
+e_i USER0011 (ĐM 2) FREE +0đ
 p_i USER0012 (Nguyễn Hùng) 25/5 - 25/6 +0đ
 p_i USER0013 (Tấn Phát) Dùng Thử +0đ
 p_a USER0014 (ĐM 5)
