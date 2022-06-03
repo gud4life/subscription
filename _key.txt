@@ -1,12 +1,4 @@
 
-pro.adr   --->   aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3p6Q3g1SloxQ2Uvc3Vic2NyaXB0aW9uL21haW4vcHJvLmFkcg==
-
-pro.ios   --->   https://raw.githubusercontent.com/zzCx5JZ1Ce/subscription/main/pro.ios
-
-vip.adr   --->   aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3p6Q3g1SloxQ2Uvc3Vic2NyaXB0aW9uL21haW4vdmlwLmFkcg==
-
-vip.ios   --->   https://raw.githubusercontent.com/zzCx5JZ1Ce/subscription/main/vip.ios
-
 p_a USER0000 (Me) <01/01/2023> -999đ   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdU1POGRRZGFNNDVZ
 
 p_a USER0001 (Phạm Cường) <01/01/2023> Free   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24velNNMlByZHgxbTY2
