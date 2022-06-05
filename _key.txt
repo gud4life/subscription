@@ -27,22 +27,6 @@ p_a USER0006 (Ngày Không Em) <13/07/2022> +40đ   --->   aHR0cDovL3N1Yi5rYW12Z
 
 --------------------------------------
 
-p_a USER0007 (Trống) <13/07/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdVQ4VWRtOFh1QmtG
-
---------------------------------------
-
-p_a USER0008 (Trống) <13/07/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vcDZmektpNm1aS08y
-
---------------------------------------
-
-p_i USER0009 (Trống) <13/07/2022>   --->   http://sub.kamvdta.xyz:8888/down/n24dWOzF38gA
-
---------------------------------------
-
-p_i USER0010 (Trống) <13/07/2022>   --->   http://sub.kamvdta.xyz:8888/down/eu7jiXVDMTwL
-
---------------------------------------
-
 p_i USER0011 (Nguyễn Huy) <30/06/2022> Cộng tác   --->   http://sub.kamvdta.xyz:8888/down/9Lkismhxd9Nq
 
 --------------------------------------
