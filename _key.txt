@@ -1,28 +1,28 @@
 
-p_a USER0000 (Me) <01/01/2023> -999đ ~http://sub.kamvdta.xyz:8888/down/Az3m9cF7de3X~
+p_a USER0000 (Me) <01/01/2023> -999đ   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vQXozbTljRjdkZTNY
 
-b_a USER0001 (Phạm Cường) <01/01/2023> Free ~http://sub.kamvdta.xyz:8888/down/MTRQUOnEDrKb~
+b_a USER0001 (Phạm Cường) <01/01/2023> Free   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vTVRSUVVPbkVEckti
 
-p_i USER0002 (Phước Đạt) <01/01/2023> Free ~http://sub.kamvdta.xyz:8888/down/faZIjXjkh1OD~
+p_i USER0002 (Phước Đạt) <01/01/2023> Free   --->   http://sub.kamvdta.xyz:8888/down/faZIjXjkh1OD
 
 p_i USER0003 (Kevin Anh) <01/01/2023> Free   --->   http://sub.kamvdta.xyz:8888/down/gUyqTG9m13dD
 
 p_a USER0004 (Trống) <13/07/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vWkVmaWNDeEJPbE1z
 
-b_i USER0005 (Tuấn Thành) <22/06/2022>  +20đ  ~http://sub.kamvdta.xyz:8888/down/rjX5mGn88wov~
+b_i USER0005 (Tuấn Thành) <22/06/2022>  +20đ    --->   http://sub.kamvdta.xyz:8888/down/rjX5mGn88wov
 
-p_a USER0006 (Ngày Không Em) <13/07/2022> +40đ ~http://sub.kamvdta.xyz:8888/down/Rw3EHBiUAKnJ~
+p_a USER0006 (Ngày Không Em) <13/07/2022> +40đ   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vUnczRUhCaVVBS25K
 
-p_a USER0007 (Trống) <13/07/2022> ~http://sub.kamvdta.xyz:8888/down/uT8Udm8XuBkF~
+p_a USER0007 (Trống) <13/07/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdVQ4VWRtOFh1QmtG
 
-p_a USER0008 (Trống) <13/07/2022> ~http://sub.kamvdta.xyz:8888/down/p6fzKi6mZKO2~
+p_a USER0008 (Trống) <13/07/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vcDZmektpNm1aS08y
 
 p_i USER0009 (Trống) <13/07/2022>   --->   http://sub.kamvdta.xyz:8888/down/n24dWOzF38gA
 
 p_i USER0010 (Trống) <13/07/2022>   --->   http://sub.kamvdta.xyz:8888/down/eu7jiXVDMTwL
 
-p_i USER0011 (Nguyễn Huy) <30/06/2022> Cộng tác ~http://sub.kamvdta.xyz:8888/down/9Lkismhxd9Nq~
+p_i USER0011 (Nguyễn Huy) <30/06/2022> Cộng tác   --->   http://sub.kamvdta.xyz:8888/down/9Lkismhxd9Nq
 
-p_i USER0012 (Nguyễn Hùng) <25/06/2022> +20đ ~http://sub.kamvdta.xyz:8888/down/SqHAEHMilSku~
+p_i USER0012 (Nguyễn Hùng) <25/06/2022> +20đ   --->   http://sub.kamvdta.xyz:8888/down/SqHAEHMilSku
 
-p_i USER0013 (Tấn Phát) <30/06/2022> +20đ ~http://sub.kamvdta.xyz:8888/down/D3vATluuLO8O~
+p_i USER0013 (Tấn Phát) <30/06/2022> +20đ   --->   http://sub.kamvdta.xyz:8888/down/D3vATluuLO8O
