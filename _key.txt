@@ -15,7 +15,7 @@ p_i USER0003 (Kevin Anh: Trial) <10/06/2022>   --->   http://sub.kamvdta.xyz:888
 
 --------------------------------------
 
-p_a USER0004 (Thắng: Admin) <13/07/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vWkVmaWNDeEJPbE1z
+e_a USER0004 (Thắng: Admin) <13/07/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vWkVmaWNDeEJPbE1z
 
 --------------------------------------
 
@@ -27,15 +27,7 @@ p_a USER0006 (Ngày Không Em: +40đ) <13/07/2022>   --->   aHR0cDovL3N1Yi5rYW12
 
 --------------------------------------
 
-p_a USER0007 (Sơn: Trial) <10/06/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdVQ4VWRtOFh1QmtG
-
---------------------------------------
-
-p_i USER0011 (Nguyễn Huy: Admin) <30/06/2022> Cộng tác   --->   http://sub.kamvdta.xyz:8888/down/9Lkismhxd9Nq
-
---------------------------------------
-
-p_i USER0012 (Nguyễn Hùng: +20đ) <25/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/SqHAEHMilSku
+p_i USER0012 (Nguyễn Hùng: +20đ) <25/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/DVhB2v2QQE7i
 
 --------------------------------------
 
