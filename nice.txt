@@ -1,0 +1,267 @@
+#include<conio.h>
+#include<stdio.h>
+#include <iostream>
+#include <string.h>
+using namespace std;
+struct hocsinh
+{
+    int MaHS;
+    char TenHS[100];
+    float Diemtoan, Diemly;
+    float Diemhoa;
+    float diemTB;
+    char hocluc[100]; 
+};
+void nhap(hocsinh hs[], int n)
+{
+    for (int i=0; i<n; i++){
+        cout<<"hoc sinh thu"<<i+1<<endl;
+        cout<<"nhap ma hoc sinh"<<endl;
+        cin>>hs[i].MaHS;
+        cout<<"nhap ten hoc sinh"<<endl;
+        cin>>hs[i].TenHS;
+        cout<<"nhap diem toan"<<endl;
+        cin>>hs[i].Diemtoan;
+        cout<<"nhap diem ly"<<endl;
+        cin>>hs[i].Diemly;
+        cout<<"nhap diem hoa"<<endl;
+        cin>>hs[i].Diemhoa; 
+    }
+}
+float max(hocsinh hs[],int n){
+	float max;
+	int i;
+		for (int i=0; i<n; i++)
+			max=hs[i].Diemhoa;
+			if(hs[i+1].Diemhoa>max)
+				max=hs[i+1].Diemhoa;
+			return max;
+			cout<<"Ten sinh vien:"<<hs[i].TenHS;
+		}
+float diemTB(hocsinh hs[],int n)
+{
+    for (int i=0; i<n; i++){
+        hs[i].diemTB=(hs[i].Diemtoan+hs[i].Diemly+hs[i].Diemhoa)/3;
+    }
+}
+void xeploai(hocsinh hs[],int n) {
+	for (int i=0; i<n; i++){
+    if(hs[i].diemTB >= 8) strcpy(hs[i].hocluc, "Gioi");
+    else if(hs[i].diemTB >= 6.5) strcpy(hs[i].hocluc, "Kha");
+    else if(hs[i].diemTB >= 5) strcpy(hs[i].hocluc, "Trung binh");
+    else strcpy(hs[i].hocluc, "Yeu");
+}
+}
+void sapxep(hocsinh hs[], int n)
+{
+    float tmp;
+    for (int i=0; i<n-1; i++)
+        for (int j=i+1; j<n; j++)
+            if (hs[i].diemTB<hs[j].diemTB){
+                tmp=hs[i].diemTB;
+                hs[i].diemTB=hs[j].diemTB;
+                hs[j].diemTB=tmp;
+            }
+}
+void xoa(hocsinh hs[], int n, int i)
+{
+	for (int i=0; i<n-1; i++)
+	{
+		hs[i]=hs[i+1];
+	}
+}
+float xoadiemly(hocsinh hs[], int n)
+{
+	float diemly;
+	cout<<"nhap diem ly can xoa: "<<endl;
+	cin>>diemly;
+	for (int i=0; i<n; i++)
+	{
+		if (hs[i].Diemly==diemly){
+			xoa(hs,n,i);
+			i--; 
+		}
+	}
+}
+void tinhDTB(hocsinh &hs) 
+{
+    hs.diemTB = (hs.Diemtoan + hs.Diemly + hs.Diemhoa) / 3;    
+}
+ 
+void xeploai1(hocsinh &hs) 
+{
+    if(hs.diemTB >= 9) strcpy(hs.hocluc, "Xuat Sac");
+    else if(hs.diemTB >= 8) strcpy(hs.hocluc, "Gioi");
+    else if(hs.diemTB >= 7) strcpy(hs.hocluc, "Kha");
+    else if (hs.diemTB>=5)strcpy(hs.hocluc, "Trung Binh");
+    else cout<<hs.hocluc<<"yeu"<<endl;
+}
+void nhapp(hocsinh &hs){
+	    cout<<"nhap ma hoc sinh"<<endl;
+        cin>>hs.MaHS;
+        cout<<"nhap ten hoc sinh"<<endl;
+        cin>>hs.TenHS;
+        cout<<"nhap diem toan"<<endl;
+        cin>>hs.Diemtoan;
+        cout<<"nhap diem ly"<<endl;
+        cin>>hs.Diemly;
+        cout<<"nhap diem hoa"<<endl;
+        cin>>hs.Diemhoa;
+        cout<<endl;
+        tinhDTB(hs);
+		xeploai1(hs);
+}
+void nhapt(hocsinh hs[],int n){
+	cout<<"\nNhap sinh vien thu "<<n+1<<endl;
+	nhapp(hs[n]);
+}
+void xuat2(hocsinh hs[],int n){
+	cout<<"\n"<<n+1;
+    cout<<"\t"<<hs[n].MaHS;
+    cout<<"\t"<<hs[n].TenHS;
+    cout<<"\t"<<hs[n].Diemtoan;
+    cout<<"\t"<<hs[n].Diemly;
+    cout<<"\t"<<hs[n].Diemhoa;
+    cout<<"\t"<<hs[n].diemTB;
+cout<<"\t\t"<<hs[n].hocluc;
+    cout<<endl;
+}
+void xuat(hocsinh hs[], int n)
+{
+    cout<<"\n\STT\tMa HS\tTen HS\tToan\tLy\tHoa\tDiem TB\t       Hoc luc";
+    for (int i=0; i<n; i++){
+    	diemTB(hs,n);
+    	xeploai(hs,n);
+        cout<<"\n"<<i+1;
+        cout<<"\t"<<hs[i].MaHS;
+        cout<<"\t"<<hs[i].TenHS;
+        cout<<"\t"<<hs[i].Diemtoan;
+        cout<<"\t"<<hs[i].Diemly;
+        cout<<"\t"<<hs[i].Diemhoa;
+        cout<<"\t"<<hs[i].diemTB;
+        cout<<"\t\t"<<hs[i].hocluc;
+        cout<<endl;
+    }
+}
+void print(hocsinh hs[], int n)
+{
+    cout<<"\n\STT\tMa HS\tTen HS\tToan\tLy\tHoa\tDiem TB";
+    for (int i=0; i<n; i++){
+        cout<<"\n"<<i+1;
+        cout<<"\t"<<hs[i].MaHS;
+        cout<<"\t"<<hs[i].TenHS;
+        cout<<"\t"<<hs[i].Diemtoan;
+        cout<<"\t"<<hs[i].Diemly;
+        cout<<"\t"<<hs[i].Diemhoa;
+        cout<<"\t"<<hs[i].diemTB;
+        cout<<endl;
+    }
+}
+void printf(hocsinh hs[], int n)
+{
+    cout<<"\n\STT\tMa HS\tTen HS\tHoa";
+    for (int i=0; i<n; i++){
+        cout<<"\n"<<i+1;
+        cout<<"\t"<<hs[i].MaHS;
+        cout<<"\t"<<hs[i].TenHS;
+        cout<<"\t"<<hs[i].Diemhoa;
+    }
+}
+void ghi(FILE *f,hocsinh hs[],int n){
+	f=fopen("D:\\songuyen.txt","wt");
+	for(int i=0;i<n;i++){
+		diemTB(hs,n);
+    	xeploai(hs,n);
+		fprintf(f,"Sinh vien\tMa SV\tTen sv\tDiemtoan\tDiemly\t\tDiemhoa\t\tDiemTb\t\tHocluc\n%d\t\t%d\t%s\t%6.2f\t\t%6.2f\t\t%6.2f\t\t%6.2f\t\t%s\n",i+1,hs[i].MaHS,hs[i].TenHS,hs[i].Diemtoan,hs[i].Diemly,hs[i].Diemhoa,hs[i].diemTB,hs[i].hocluc);
+	}
+	fclose(f);
+}
+void doc(FILE *f){
+	f=fopen("D:\\songuyen.txt","rt");
+	while(!feof(f)){
+		char st[256];
+		fgets(st,sizeof(st),f);
+		puts(st);
+	}
+	fclose(f);
+}
+void pressAnyKey() {
+    cout << "\n\nBam phim bat ky de tiep tuc...";
+    getch();
+    system("cls");
+}
+int main ()
+{
+    int n;
+    cout<<"nhap n hoc sinh"<<endl;
+    cin>>n;
+    hocsinh hs[100];
+    nhap(hs,n);
+    while(true)
+{
+    cout<<"----------MENU----------"<<endl;
+    cout<<"1. Them sinh vien"<<endl;
+    cout<<"2. Tinh diem trung binh cho cac hoc sinh"<<endl;
+    cout<<"3. In ra man hinh danh sach hoc sinh voi day du thong tin duoi dang bang "<<endl;
+    cout<<"4. Sap xep danh sach hoc sinh theo thu tu giam dan cua diem trung binh va in ra danh sach sau sap xep"<<endl;
+    cout<<"5. In ra man hinh danh sach hoc sinh co diem hoa lon nhat"<<endl;
+    cout<<"6. Xoa khoi danh sach cac hoc sinh co diem ly bang diem li nhap tu ban phim"<<endl;
+    cout<<"7. Luu danh sach hoc sinh ra tep sv1.dat"<<endl;
+    cout<<"8. Doc danh sach hoc sinh tu tep sv1.dat va in danh sach ra man hinh"<<endl;
+    cout<<"9. Thoat chuong trinh"<<endl;
+    int x;
+    nhaplai:
+    
+    cout<<"nhap lua chon"<<endl; cin>>x;
+    FILE *f;
+    switch(x){
+    	case 1:
+    	nhapt(hs,n);
+    	xuat(hs,n);
+    	xuat2(hs,n);
+    	pressAnyKey();
+    	break;
+        case 2:
+        diemTB(hs,n);
+        xuat(hs,n);
+        pressAnyKey();
+        break;
+        case 3:
+        cout<<"in danh sach";
+        xuat(hs,n);
+        pressAnyKey();
+break;
+        case 4:
+        cout<<"danh sach giam dan la: "<<endl;
+        diemTB(hs,n);
+        sapxep(hs,n);
+        print(hs,n);
+        pressAnyKey();
+        break;
+        case 5:
+        cout<<"hoc sinh co diem hoa lon nhat"<<endl;
+        max(hs,n);
+        pressAnyKey();
+       	break; 
+		case 6:
+		xoadiemly(hs,n);
+		cout<<"Xoa thanh cong"<<endl;
+		xuat(hs,n);
+		pressAnyKey();
+		break; 
+		case 7:
+		ghi(f,hs,n); 
+		pressAnyKey();
+		break;
+		case 8:
+		doc(f); 
+		pressAnyKey();
+		break; 
+		case 9:
+		cout<<"Ban da thoat chuong trinh"<<endl;
+		getch();
+		return 0; 
+		break;
+    }
+}
+}
