@@ -1,3 +1,5 @@
+// Nam mô a di đà phật
+
 #include<conio.h>
 #include<stdio.h>
 #include <iostream>
@@ -16,56 +18,61 @@ struct DanhBa {
 
 typedef DanhBa DB;
 
+// hàm phục vụ chương trình
 void func_addLH(DB &db, int id);
-void addLH(DB a[], int id, int n);
 void func_editLH(DB &db);
+void addLH(DB a[], int id, int n);
 void editLH(DB a[], int id, int n);
 int delLH(DB a[], int id, int n);
 void search(DB a[], char ten[], int n);
 int counter(DB a[], int n);
-void sortbyname(DB a[], int n);
 void listLH(DB a[], int n);
+void listLH_name(DB a[], int n);
 int docFile(DB a[], char fileName[]);
 void ghiFile(DB a[], int n, char fileName[]);
+
+// hàm tạo form cho chương trình
 void refresh();
-void ngatdong(int n);
+void taokhuon(int n);
 
 int main() {
-    int key;
-    char fileName[] = "danhba.db";
+	// khai báo
     DB arrayLH[MAX];
+    int select;
     int soluongLH = 0;
-    int idCount = 0;
-    
+	
+	// đọc dữ liệu từ file
+    char fileName[] = "danhba.db";
     soluongLH = docFile(arrayLH, fileName);
-    idCount = counter (arrayLH, soluongLH);
+    int idCount = counter(arrayLH, soluongLH);
 
     while(true) {
-        cout << "------------ Ung Dung Danh Ba (Ngon Ngu C) ------------\n";
-        cout << "*************************MENU**************************\n";
-        cout << "**  1. Hien thi danh sach lien he.                   **\n";
-        cout << "**  2. Them lien he.                                 **\n";
-        cout << "**  3. Sua thong tin lien he bang ID.                **\n";
-        cout << "**  4. Xoa lien he bang ID.                          **\n";
-        cout << "**  5. Tim kiem lien he theo ten.                    **\n";
-        cout << "**  6. Sap xep lien he theo ten.                     **\n";
-        cout << "**  7. Ghi danh sach lien he vao file.               **\n";
-        cout << "**  0. Thoat                                         **\n";
-        cout << "*******************************************************\n";
-        cout << "Nhap tuy chon: ";
-        cin >> key;
-        switch(key){
+        printf("------------ Ung Dung Danh Ba (Ngon Ngu C) ------------\n");
+		printf("------------ Coder: doandat943, ngocphuong ------------\n");
+        printf("*************************MENU**************************\n");
+        printf("**  1. Hien thi danh sach lien he.                   **\n");
+        printf("**  2. Them lien he.                                 **\n");
+        printf("**  3. Sua thong tin lien he bang ID.                **\n");
+        printf("**  4. Xoa lien he bang ID.                          **\n");
+        printf("**  5. Tim kiem lien he theo ten.                    **\n");
+        printf("**  6. Sap xep lien he theo ten.                     **\n");
+        printf("**  7. Ghi danh sach lien he vao file.               **\n");
+        printf("**  0. Thoat                                         **\n");
+        printf("*******************************************************\n");
+        printf("Nhap tuy chon: ");
+        scanf("%d",&select);
+        switch(select){
             case 1:
             	if(soluongLH > 0){
-                    cout << "\n1. Hien thi danh sach lien he.";
+                    printf("\n1. Hien thi danh sach lien he.");
                     listLH(arrayLH, soluongLH);
                 }else{
-                    cout << "\nDanh ba trong!";
+                    printf("\nDanh ba trong!");
                 }
                 refresh();
                 break;
             case 2:
-            	cout << "\n2. Them lien he.";
+            	printf("\n2. Them lien he.");
                 idCount++;
                 addLH(arrayLH, idCount, soluongLH);
                 printf("\nThem lien he thanh cong!");
@@ -75,66 +82,83 @@ int main() {
             case 3:
             	if(soluongLH > 0) {
                     int id;
-                    cout << "\n3. Sua thong tin lien he bang ID.";
-                    cout << "\n Nhap ID: "; cin >> id;
+                    printf("\n3. Sua thong tin lien he bang ID.");
+                    printf("\n Nhap ID: "); scanf("%d", &id);
                     editLH(arrayLH, id, soluongLH);
                 }else{
-                    cout << "\nDanh ba trong!";
+                    printf("\nDanh ba trong!");
                 }
                 refresh();
                 break;
             case 4:
                 if(soluongLH > 0) {
                     int id;
-                    cout << "\n4. Xoa lien he bang ID.";
-                    cout << "\n Nhap ID: "; cin >> id;
+                    printf("\n4. Xoa lien he bang ID.");
+                    printf("\n Nhap ID: "); scanf("%d", &id);
                     if (delLH(arrayLH, id, soluongLH) == 1) {
                         printf("\nlien he co id = %d da bi xoa.", &id);
                         soluongLH--;
                     }
                 }else{
-                    cout << "\nDanh ba trong!";
+                    printf("\nDanh ba trong!");
                 }
                 refresh();
                 break;
             case 5:
                 if(soluongLH > 0) {
-                    cout << "\n5. Tim kiem lien he theo ten.";
+                    printf("\n5. Tim kiem lien he theo ten.");
                     char strTen[30];
-                    cout << "\nNhap ten de tim kiem: "; fflush(stdin); gets(strTen);
+                    printf("\nNhap ten de tim kiem: "); fflush(stdin); gets(strTen);
                     search(arrayLH, strTen, soluongLH);
                 }else{
-                    cout << "\nDanh ba trong!";
+                    printf("\nDanh ba trong!");
                 }
                 refresh();
                 break;
             case 6:
             	if(soluongLH > 0) {
-                    cout << "\n6. Sap xep lien he theo ten.";
-                    sortbyname(arrayLH, soluongLH);
+                    printf("\n6. Sap xep lien he theo ten.");
+                    listLH_name(arrayLH, soluongLH);
                     listLH(arrayLH, soluongLH);
                 } else {
-                    cout << "\nDanh ba trong!";
+                    printf("\nDanh ba trong!");
                 }
                 refresh();
                 break;
             case 7:
                 if(soluongLH > 0){
-                    cout << "\n7. Ghi danh sach lien he vao file.";
+                    printf("\n7. Ghi danh sach lien he vao file.");
                     ghiFile(arrayLH, soluongLH, fileName);
                 }else{
-                    cout << "\nDanh ba trong!";
+                    printf("\nDanh ba trong!");
                 }
                 printf("\nGhi danh sach lien he vao file %s thanh cong!", fileName);
                 refresh();
                 break;
             case 0:
-                cout << "\nBan da chon thoat chuong trinh!";
+            	int luu;
+            	taokhuon(35);
+                printf("\n  Ban co muon luu du lieu khong?");
+                printf("\n  -  1. Luu du dieu.");
+                printf("\n  -  2. Khong luu du lieu.");
+                taokhuon(35);
+                printf("\n  Nhap tuy chon: ");
+                scanf("%d",&luu);
+                switch(luu){
+                        case 1:
+                       	    ghiFile(arrayLH, soluongLH, fileName);
+                            printf("\n  Ghi danh sach lien he vao file %s thanh cong!", fileName);
+                            break;
+                        case 2:
+                        	printf("\n  Du lieu chua duoc luu!");
+                        	break;
+                }
+                printf("\n\n  --- Bam phim bat ky de thoat ---\n");
                 getch();
                 return 0;
             default:
-                cout << "\nKhong co chuc nang nay!";
-                cout << "\nVui long chon chuc nang co trong hop menu.";
+                printf("\nKhong co chuc nang nay!");
+                printf("\nVui long chon chuc nang co trong hop menu.");
                 refresh();
                 break;
         }
@@ -142,27 +166,27 @@ int main() {
 }
 
 void func_addLH(DB &db, int id) {
-    cout << "\n Nhap ho: "; fflush(stdin); gets(db.ho);
-    cout << " Nhap ten: "; gets(db.ten);
-    cout << " Nhap sdt: "; gets(db.sdt);
-	cout << " Nhap email: "; gets(db.email);
-	cout << " Nhap dia chi: "; gets(db.diachi);
+    printf("\n Nhap ho: "); fflush(stdin); gets(db.ho);
+    printf(" Nhap ten: "); gets(db.ten);
+    printf(" Nhap sdt: "); gets(db.sdt);
+	printf(" Nhap email: "); gets(db.email);
+	printf(" Nhap dia chi: "); gets(db.diachi);
     db.id = id;
 }
 
-void addLH(DB a[], int id, int n) {
-    ngatdong(40);
-    printf("\n Nhap lien he thu %d:", n + 1);
-    func_addLH(a[n], id);
-    ngatdong(40);
+void func_editLH(DB &db) {
+    printf("\n Nhap ho: "); fflush(stdin); gets(db.ho);
+    printf(" Nhap ten: "); gets(db.ten);
+    printf(" Nhap sdt: "); gets(db.sdt);
+	printf(" Nhap email: "); gets(db.email);
+	printf(" Nhap dia chi: "); gets(db.diachi);
 }
 
-void func_editLH(DB &db) {
-    cout << "\n Nhap ho: "; fflush(stdin); gets(db.ho);
-    cout << " Nhap ten: "; gets(db.ten);
-    cout << " Nhap sdt: "; gets(db.sdt);
-	cout << " Nhap email: "; gets(db.email);
-	cout << " Nhap dia chi: "; gets(db.diachi);
+void addLH(DB a[], int id, int n) {
+    taokhuon(40);
+    printf("\n Nhap lien he thu %d:", n + 1);
+    func_addLH(a[n], id);
+    taokhuon(40);
 }
 
 void editLH(DB a[], int id, int n) {
@@ -170,10 +194,10 @@ void editLH(DB a[], int id, int n) {
     for(int i = 0; i < n; i++) {
         if (a[i].id == id) {
             found = 1;
-            ngatdong(40);
-            cout << "\n Cap nhat thong tin lien he co ID = " << id;
+            taokhuon(40);
+            printf("\n Cap nhat thong tin lien he co ID = %d", id);
             func_editLH(a[i]);
-            ngatdong(40);
+            taokhuon(40);
             break;
         }
     }
@@ -187,12 +211,12 @@ int delLH(DB a[], int id, int n) {
     for(int i = 0; i < n; i++) {
         if (a[i].id == id) {
             found = 1;
-            ngatdong(40);
+            taokhuon(40);
             for (int j = i; j < n; j++) {
                 a[j] = a[j+1];
             }
-            cout << "\n Da xoa SV co ID = " << id;
-            ngatdong(40);
+            printf("\n Da xoa SV co ID = %d", id);
+            taokhuon(40);
             break;
         }
     }
@@ -219,8 +243,8 @@ void search(DB a[], char ten[], int n) {
 }
 
 void listLH(DB a[], int n) {
-    ngatdong(110);
-    cout << "\nSTT\tID\tHo\tTen\tSo dien thoai\tEmail\t\t\tDia chi";
+    taokhuon(90);
+    printf("\nSTT\tID\tHo\tTen\tSo dien thoai\tEmail\t\t\tDia chi");
     for(int i = 0; i < n; i++) {
         printf("\n%d", i + 1);
         printf("\t%d", a[i].id);
@@ -230,10 +254,10 @@ void listLH(DB a[], int n) {
 		printf("\t%s", a[i].email);
 		printf("\t%s", a[i].diachi);
     }
-    ngatdong(110);
+    taokhuon(90);
 }
 
-void sortbyname(DB a[], int n) {
+void listLH_name(DB a[], int n) {
     DB tmp;
     char tenSV1[30];
     char tenSV2[30];
@@ -267,16 +291,14 @@ int docFile(DB a[], char fileName[]) {
     FILE * fp;
     int i = 0;
     fp = fopen (fileName, "r");
-    cout << "            Dang quet du lieu tu: "; puts(fileName);
-    cout << "       ----------------------------------------\n";
+    printf("            Dang quet du lieu tu: "); puts(fileName);
+    printf("       ----------------------------------------\n");
     while (fscanf(fp, "%5d%30s%30s%30s%30s%30s\n", &a[i].id, &a[i].ho, &a[i].ten, &a[i].sdt, &a[i].email, &a[i].diachi) != EOF) {
        i++;
-       cout << "       -        Bat dau xu ly du lieu         -" << endl;
-       cout << "       -             Quet du lieu: " << i << "          -" << endl;
+       printf("       -        Bat dau xu ly du lieu         -\n");
+       printf("       -             Quet du lieu: %d          -\n", i);
     }
-    cout << "       ----------------------------------------\n          So lien he co san trong file la: " << i << endl;
-    cout << "\n\n";
-    cout << endl;
+    printf("       ----------------------------------------\n          So lien he co san trong file la:  %d \n\n\n", i);
     fclose (fp);
     return i;
 }
@@ -290,16 +312,16 @@ void ghiFile(DB a[], int n, char fileName[]) {
     fclose (fp);
 }
 
-void ngatdong(int n) {
-    cout << endl;
+void taokhuon(int n) {
+    printf("\n");
     for (int i = 0; i < n; i++) {
-        cout << "_";
+        printf("_");
     }
-    cout << endl;
+    printf("\n");
 }
 
 void refresh() {
-    cout << "\n\nBam phim bat ky de tiep tuc...";
+    printf("\n\nBam phim bat ky de tiep tuc...");
     getch();
     system("cls");
 }
