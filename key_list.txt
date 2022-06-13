@@ -39,7 +39,7 @@ p_i_vtel USER0009 (Kadi Chan) <15/06/2022>   --->   http://sub.kamvdta.xyz:8888/
 
 ----------------------------------------
 
-p_i_vtel USER0010 (Hoàng Anh) <25/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/yitZXc6dkNds
+p_a_vtel USER0010 (Hoàng Anh) <25/06/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24veWl0WlhjNmRrTmRz
 
 ----------------------------------------
 
