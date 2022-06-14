@@ -39,11 +39,11 @@ p_i_vtel USER0009 (Kadi Chan: Trial) <15/06/2022>   --->   http://sub.kamvdta.xy
 
 ----------------------------------------
 
-e_a_vtel USER0010 (Trống)   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24veWl0WlhjNmRrTmRz
+p_a_vtel USER0010 (Hoàng Hiệp 2: +30đ) <15/09/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vSm9CQjhSblo3S2xp
 
 ----------------------------------------
 
-p_i_vtel USER0011 (Hoàng Hiệp: Trial) <15/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/ZHc1rrZAJiox
+p_i_vtel USER0011 (Hoàng Hiệp: +30đ) <15/09/2022>   --->   http://sub.kamvdta.xyz:8888/down/ZHc1rrZAJiox
 
 ----------------------------------------
 
