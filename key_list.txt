@@ -11,7 +11,7 @@ p_a_vte1 USER0000 (Admin: ADR) <01/01/2023>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh
 
 ----------------------------------------
 
-p_i_vte1 USER0001 (Admin: iOS) <01/01/2023>   --->   http://sub.kamvdta.xyz:8888/down/0hrmbgWt36Zp
+p_s_vte1 USER0001 (Admin: iOS) <01/01/2023>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vMGhybWJnV3QzNlpw#kamVdta
 
 ----------------------------------------
 
@@ -75,6 +75,6 @@ p_i_vte3 USER0016 (Ngọc Dulcie: Free) <01/12/2022>   --->   http://sub.kamvdta
 
 ----------------------------------------
 
-p_i_vte3 USER0017 (Chiêns Jerry: Trial) <21/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/PGQntjvnJH0q
+p_s_vte3 USER0017 (Chiêns Jerry: Trial) <21/06/2022>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vUEdRbnRqdm5KSDBx#kamVdta
 
 ----------------------------------------
