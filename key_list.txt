@@ -87,6 +87,10 @@ p_i_vte1 USER0019 (Vô Vị: Trial) <21/06/2022>   --->   http://sub.kamvdta.xyz
 
 ----------------------------------------
 
-p_s_vte3 USER0020 (Quang Dũng: Trial) <21/06/2022>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vVFc2RFBBQzJUVVMx#kamVdta
+p_i_vte1 USER0020 (Quang: +27đ) <01/10/2022>   --->   http://sub.kamvdta.xyz:8888/down/TW6DPAC2TUS1
+
+----------------------------------------
+
+p_i_vte3 USER0021 (Hungtran: Trial) <21/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/S1eGcnw1wprJ
 
 ----------------------------------------
