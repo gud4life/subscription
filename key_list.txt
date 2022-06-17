@@ -119,7 +119,7 @@ p_s_vte3 USER0026 (Hoàng Đạt: Trial) <20/06/2022>   --->   sub://aHR0cDovL3N
 
 ----------------------------------------
 
-p_s_vte3 USER0027 (Trống: Trial) <20/06/2022>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdWNtY3d1ZE5US1pR#kamVdta
+p_i_vte1 USER0027 (Rey: Trial) <20/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/ucmcwudNTKZQ
 
 ----------------------------------------
 
