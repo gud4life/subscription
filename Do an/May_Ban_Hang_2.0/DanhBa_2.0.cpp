@@ -9,9 +9,9 @@ using namespace std;
 
 struct DanhBa {
     int id;
-    char ho[30];
-    char ten[30];
-    char sdt[30];
+    char tensanpham;
+    int soluongsanpham;
+    int giasanpham;
     char email[30];
 	char diachi[30];
 };
@@ -24,7 +24,6 @@ void func_editLH(DB &db);
 void addLH(DB a[], int id, int n);
 void editLH(DB a[], int id, int n);
 int delLH(DB a[], int id, int n);
-void search(DB a[], char ten[], int n);
 int counter(DB a[], int n);
 void listLH(DB a[], int n);
 void listLH_name(DB a[], int n);
@@ -50,13 +49,13 @@ int main() {
         printf("------------ Ung Dung Danh Ba (Ngon Ngu C) ------------\n");
 		printf("------------ Coder: doandat943, ngocphuong ------------\n");
         printf("*************************MENU**************************\n");
-        printf("**  1. Hien thi danh sach lien he.                   **\n");
-        printf("**  2. Them lien he.                                 **\n");
-        printf("**  3. Sua thong tin lien he bang ID.                **\n");
-        printf("**  4. Xoa lien he bang ID.                          **\n");
-        printf("**  5. Tim kiem lien he theo ten.                    **\n");
-        printf("**  6. Sap xep lien he theo ten.                     **\n");
-        printf("**  7. Ghi danh sach lien he vao file.               **\n");
+        printf("**  1. Hien thi danh sach san pham.                   **\n");
+        printf("**  2. Them san pham.                                 **\n");
+        printf("**  3. Sua thong tin san pham bang ID.                **\n");
+        printf("**  4. Xoa san pham bang ID.                          **\n");
+        printf("**  5. ////                    **\n");
+        printf("**  6. Sap xep san pham theo ten.                     **\n");
+        printf("**  7. Ghi danh sach san pham vao file.               **\n");
         printf("**  0. Thoat                                         **\n");
         printf("*******************************************************\n");
         printf("Nhap tuy chon: ");
@@ -64,7 +63,7 @@ int main() {
         switch(select){
             case 1:
             	if(soluongLH > 0){
-                    printf("\n1. Hien thi danh sach lien he.");
+                    printf("\n1. Hien thi danh sach san pham.");
                     listLH(arrayLH, soluongLH);
                 }else{
                     printf("\nDanh ba trong!");
@@ -72,17 +71,17 @@ int main() {
                 refresh();
                 break;
             case 2:
-            	printf("\n2. Them lien he.");
+            	printf("\n2. Them san pham.");
                 idCount++;
                 addLH(arrayLH, idCount, soluongLH);
-                printf("\nThem lien he thanh cong!");
+                printf("\nThem san pham thanh cong!");
                 soluongLH++;
                 refresh();
                 break;
             case 3:
             	if(soluongLH > 0) {
                     int id;
-                    printf("\n3. Sua thong tin lien he bang ID.");
+                    printf("\n3. Sua thong tin san pham bang ID.");
                     printf("\n Nhap ID: "); scanf("%d", &id);
                     editLH(arrayLH, id, soluongLH);
                 }else{
@@ -93,10 +92,10 @@ int main() {
             case 4:
                 if(soluongLH > 0) {
                     int id;
-                    printf("\n4. Xoa lien he bang ID.");
+                    printf("\n4. Xoa san pham bang ID.");
                     printf("\n Nhap ID: "); scanf("%d", &id);
                     if (delLH(arrayLH, id, soluongLH) == 1) {
-                        printf("\nlien he co id = %d da bi xoa.", &id);
+                        printf("\nsan pham co id = %d da bi xoa.", &id);
                         soluongLH--;
                     }
                 }else{
@@ -105,19 +104,12 @@ int main() {
                 refresh();
                 break;
             case 5:
-                if(soluongLH > 0) {
-                    printf("\n5. Tim kiem lien he theo ten.");
-                    char strTen[30];
-                    printf("\nNhap ten de tim kiem: "); fflush(stdin); gets(strTen);
-                    search(arrayLH, strTen, soluongLH);
-                }else{
-                    printf("\nDanh ba trong!");
-                }
+                ...///
                 refresh();
                 break;
             case 6:
             	if(soluongLH > 0) {
-                    printf("\n6. Sap xep lien he theo ten.");
+                    printf("\n6. Sap xep san pham theo ten.");
                     listLH_name(arrayLH, soluongLH);
                     listLH(arrayLH, soluongLH);
                 } else {
@@ -127,12 +119,12 @@ int main() {
                 break;
             case 7:
                 if(soluongLH > 0){
-                    printf("\n7. Ghi danh sach lien he vao file.");
+                    printf("\n7. Ghi danh sach san pham vao file.");
                     ghiFile(arrayLH, soluongLH, fileName);
                 }else{
                     printf("\nDanh ba trong!");
                 }
-                printf("\nGhi danh sach lien he vao file %s thanh cong!", fileName);
+                printf("\nGhi danh sach san pham vao file %s thanh cong!", fileName);
                 refresh();
                 break;
             case 0:
@@ -147,7 +139,7 @@ int main() {
                 switch(luu){
                         case 1:
                        	    ghiFile(arrayLH, soluongLH, fileName);
-                            printf("\n  Ghi danh sach lien he vao file %s thanh cong!", fileName);
+                            printf("\n  Ghi danh sach san pham vao file %s thanh cong!", fileName);
                             break;
                         case 2:
                         	printf("\n  Du lieu chua duoc luu!");
@@ -166,25 +158,25 @@ int main() {
 }
 
 void func_addLH(DB &db, int id) {
-    printf("\n Nhap ho: "); fflush(stdin); gets(db.ho);
-    printf(" Nhap ten: "); gets(db.ten);
-    printf(" Nhap sdt: "); gets(db.sdt);
+    printf("\n Nhap ho: "); fflush(stdin); gets(db.tensanpham);
+    printf(" Nhap ten: "); gets(db.soluongsanpham);
+    printf(" Nhap sdt: "); gets(db.giasanpham);
 	printf(" Nhap email: "); gets(db.email);
 	printf(" Nhap dia chi: "); gets(db.diachi);
     db.id = id;
 }
 
 void func_editLH(DB &db) {
-    printf("\n Nhap ho: "); fflush(stdin); gets(db.ho);
-    printf(" Nhap ten: "); gets(db.ten);
-    printf(" Nhap sdt: "); gets(db.sdt);
+    printf("\n Nhap ho: "); fflush(stdin); gets(db.tensanpham);
+    printf(" Nhap ten: "); gets(db.soluongsanpham);
+    printf(" Nhap sdt: "); gets(db.giasanpham);
 	printf(" Nhap email: "); gets(db.email);
 	printf(" Nhap dia chi: "); gets(db.diachi);
 }
 
 void addLH(DB a[], int id, int n) {
     taokhuon(40);
-    printf("\n Nhap lien he thu %d:", n + 1);
+    printf("\n Nhap san pham thu %d:", n + 1);
     func_addLH(a[n], id);
     taokhuon(40);
 }
@@ -195,14 +187,14 @@ void editLH(DB a[], int id, int n) {
         if (a[i].id == id) {
             found = 1;
             taokhuon(40);
-            printf("\n Cap nhat thong tin lien he co ID = %d", id);
+            printf("\n Cap nhat thong tin san pham co ID = %d", id);
             func_editLH(a[i]);
             taokhuon(40);
             break;
         }
     }
     if (found == 0) {
-        printf("\n lien he co ID = %d khong ton tai.", id);
+        printf("\n san pham co ID = %d khong ton tai.", id);
     }
 }
 
@@ -221,25 +213,11 @@ int delLH(DB a[], int id, int n) {
         }
     }
     if (found == 0) {
-        printf("\n lien he co ID = %d khong ton tai.", id);
+        printf("\n san pham co ID = %d khong ton tai.", id);
         return 0;
     } else {
         return 1;
     }
-}
-
-void search(DB a[], char ten[], int n) {
-    DB arrayFound[MAX];
-    char tenSV[30];
-    int found = 0;
-    for(int i = 0; i < n; i++) {
-        strcpy(tenSV, a[i].ten);
-        if(strstr(strupr(tenSV), strupr(ten))) {
-            arrayFound[found] = a[i];
-            found++;
-        }
-    }
-    listLH(arrayFound, found);
 }
 
 void listLH(DB a[], int n) {
@@ -248,9 +226,9 @@ void listLH(DB a[], int n) {
     for(int i = 0; i < n; i++) {
         printf("\n%d", i + 1);
         printf("\t%d", a[i].id);
-        printf("\t%s", a[i].ho);
-        printf("\t%s", a[i].ten);
-        printf("\t%s", a[i].sdt);
+        printf("\t%s", a[i].tensanpham);
+        printf("\t%s", a[i].soluongsanpham);
+        printf("\t%s", a[i].giasanpham);
 		printf("\t%s", a[i].email);
 		printf("\t%s", a[i].diachi);
     }
@@ -262,9 +240,9 @@ void listLH_name(DB a[], int n) {
     char tenSV1[30];
     char tenSV2[30];
     for(int i = 0;i < n; i++) {
-    	strcpy(tenSV1, a[i].ten);
+    	strcpy(tenSV1, a[i].soluongsanpham);
         for(int j = i+1; j < n; j++) {
-        	strcpy(tenSV2, a[j].ten);
+        	strcpy(tenSV2, a[j].soluongsanpham);
             if(strcmp(strupr(tenSV1), strupr(tenSV2)) > 0) {
                 tmp = a[i];
                 a[i] = a[j];
@@ -293,12 +271,12 @@ int docFile(DB a[], char fileName[]) {
     fp = fopen (fileName, "r");
     printf("            Dang quet du lieu tu: "); puts(fileName);
     printf("       ----------------------------------------\n");
-    while (fscanf(fp, "%5d%30s%30s%30s%30s%30s\n", &a[i].id, &a[i].ho, &a[i].ten, &a[i].sdt, &a[i].email, &a[i].diachi) != EOF) {
+    while (fscanf(fp, "%5d%30s%30s%30s%30s%30s\n", &a[i].id, &a[i].tensanpham, &a[i].soluongsanpham, &a[i].giasanpham, &a[i].email, &a[i].diachi) != EOF) {
        i++;
        printf("       -        Bat dau xu ly du lieu         -\n");
        printf("       -             Quet du lieu: %d          -\n", i);
     }
-    printf("       ----------------------------------------\n          So lien he co san trong file la:  %d \n\n\n", i);
+    printf("       ----------------------------------------\n          So san pham co san trong file la:  %d \n\n\n", i);
     fclose (fp);
     return i;
 }
@@ -307,7 +285,7 @@ void ghiFile(DB a[], int n, char fileName[]) {
     FILE * fp;
     fp = fopen (fileName,"w");
     for(int i = 0;i < n;i++){
-        fprintf(fp, "%5d%30s%30s%30s%30s%30s\n", a[i].id, a[i].ho,a[i].ten, a[i].sdt, a[i].email, a[i].diachi);
+        fprintf(fp, "%5d%30s%30s%30s%30s%30s\n", a[i].id, a[i].tensanpham,a[i].soluongsanpham, a[i].giasanpham, a[i].email, a[i].diachi);
     }
     fclose (fp);
 }
