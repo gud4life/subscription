@@ -123,7 +123,7 @@ p_i_vte1 USER0027 (Rey: Trial) <20/06/2022>   --->   http://sub.kamvdta.xyz:8888
 
 ----------------------------------------
 
-p_s_vte3 USER0028 (Trống: Trial) <20/06/2022>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdVZjTjRnN1NVenQy#kamVdta
+p_s_vte3 USER0028 (Kadi Chan: Trial) <22/06/2022>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdVZjTjRnN1NVenQy#kamVdta
 
 ----------------------------------------
 
