@@ -11,39 +11,39 @@ mob6: zingmp3.vn - DK ZV gửi 6969
 vnmb: vietnamobile.com.vn
 ----------------------------------------
 
-p_a_vte1 USER0000 (Admin: ADR) <01/01/2023>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vQXozbTljRjdkZTNY
+p_a_vte3 USER0000 (Admin: ADR) <01/01/2023>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vQXozbTljRjdkZTNY
 
 ----------------------------------------
 
-p_s_vte1 USER0001 (Admin: iOS) <01/01/2023>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vMGhybWJnV3QzNlpw#kamVdta
+p_s_vte3 USER0001 (Admin: iOS) <01/01/2023>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vMGhybWJnV3QzNlpw#kamVdta
 
 ----------------------------------------
 
-p_i_vte1 USER0002 (Phước Đạt: Free) <01/01/2023>   --->   http://sub.kamvdta.xyz:8888/down/faZIjXjkh1OD
+p_i_vte3 USER0002 (Phước Đạt: Free) <01/01/2023>   --->   http://sub.kamvdta.xyz:8888/down/faZIjXjkh1OD
 
 ----------------------------------------
 
-p_i_vte1 USER0003 (Danh: Shadow) <25/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/Whut47qPUg6Z
+p_i_vte3 USER0003 (Danh: Shadow) <25/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/Whut47qPUg6Z
 
 ----------------------------------------
 
-e_i_vte1 USER0004 (Trống: Trial) <30/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/82umb6XTveP5
+e_i_vte3 USER0004 (Trống: Trial) <30/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/82umb6XTveP5
 
 ----------------------------------------
 
-p_i_vte1 USER0005 (Tuấn Thành: Free) <22/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/rjX5mGn88wov
+p_i_vte3 USER0005 (Tuấn Thành: Free) <22/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/rjX5mGn88wov
 
 ----------------------------------------
 
-p_a_vte1 USER0006 (Ngày Không Em: +40đ) <13/07/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vUnczRUhCaVVBS25K
+p_a_vte3 USER0006 (Ngày Không Em: +40đ) <13/07/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vUnczRUhCaVVBS25K
 
 ----------------------------------------
 
-p_a_vte1 USER0007 (Phạm Cường: Free) <01/01/2023>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vVzkzbTJjY0tBaE9S
+p_a_vte3 USER0007 (Phạm Cường: Free) <01/01/2023>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vVzkzbTJjY0tBaE9S
 
 ----------------------------------------
 
-p_i_vte1 USER0008 (Shizuka: Free) <01/01/2023>   --->   http://sub.kamvdta.xyz:8888/down/8PJ9RUhQm2QM
+p_i_vte3 USER0008 (Shizuka: Free) <01/01/2023>   --->   http://sub.kamvdta.xyz:8888/down/8PJ9RUhQm2QM
 
 ----------------------------------------
 
@@ -51,7 +51,7 @@ p_a_vte3 USER0009 (Abew: Free) <01/01/2023>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh
 
 ----------------------------------------
 
-p_a_vte1 USER0010 (Hoàng Hiệp 2: +30đ) <01/10/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vSm9CQjhSblo3S2xp
+p_a_vte3 USER0010 (Hoàng Hiệp 2: +30đ) <01/10/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vSm9CQjhSblo3S2xp
 
 ----------------------------------------
 
@@ -59,11 +59,11 @@ p_i_vte3 USER0011 (Hoàng Hiệp 1: +30đ) <01/11/2022>   --->   http://sub.kamv
 
 ----------------------------------------
 
-p_i_vte1 USER0012 (Nguyễn Hùng: +20đ) <25/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/DVhB2v2QQE7i
+p_i_vte3 USER0012 (Nguyễn Hùng: +20đ) <25/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/DVhB2v2QQE7i
 
 ----------------------------------------
 
-p_i_vte1 USER0013 (Tấn Phát: +20đ) <30/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/D3vATluuLO8O
+p_i_vte3 USER0013 (Tấn Phát: +20đ) <30/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/D3vATluuLO8O
 
 ----------------------------------------
 
@@ -75,7 +75,7 @@ p_i_vte3 USER0015 (Bin: Trial) <20/06/2022>   --->   http://sub.kamvdta.xyz:8888
 
 ----------------------------------------
 
-p_i_vte1 USER0016 (Ngọc Dulcie: Free) <01/12/2022>   --->   http://sub.kamvdta.xyz:8888/down/r0iXhcseJU3w
+p_i_vte3 USER0016 (Ngọc Dulcie: Free) <01/12/2022>   --->   http://sub.kamvdta.xyz:8888/down/r0iXhcseJU3w
 
 ----------------------------------------
 
@@ -87,11 +87,11 @@ p_s_vte3 USER0018 (Quang Dũng: Trial) <20/06/2022>   --->   sub://aHR0cDovL3N1Y
 
 ----------------------------------------
 
-p_i_vte1 USER0019 (Vô Vị: Trial) <20/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/0AQqeOqvWcjE
+p_i_vte3 USER0019 (Vô Vị: Trial) <20/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/0AQqeOqvWcjE
 
 ----------------------------------------
 
-p_i_vte1 USER0020 (Quang: +27đ) <01/10/2022>   --->   http://sub.kamvdta.xyz:8888/down/TW6DPAC2TUS1
+p_i_vte3 USER0020 (Quang: +27đ) <01/10/2022>   --->   http://sub.kamvdta.xyz:8888/down/TW6DPAC2TUS1
 
 ----------------------------------------
 
@@ -119,7 +119,7 @@ p_s_vte3 USER0026 (Hoàng Đạt: Trial) <20/06/2022>   --->   sub://aHR0cDovL3N
 
 ----------------------------------------
 
-p_i_vte1 USER0027 (Rey: Trial) <20/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/ucmcwudNTKZQ
+p_i_vte3 USER0027 (Rey: Trial) <20/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/ucmcwudNTKZQ
 
 ----------------------------------------
 
@@ -127,6 +127,6 @@ p_s_vte3 USER0028 (Kadi Chan: Trial) <22/06/2022>   --->   sub://aHR0cDovL3N1Yi5
 
 ----------------------------------------
 
-p_s_vte3 USER0029 (Trống: Trial) <20/06/2022>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vTk5Xb0hxeEQxbk9l#kamVdta
+p_a_vte3 USER0029 (N T Dũng: Trial) <01/07/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vTk5Xb0hxeEQxbk9l
 
 ----------------------------------------
