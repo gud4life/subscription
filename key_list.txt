@@ -142,3 +142,7 @@ p_a_vte1 USER0030 (Đình Phúc: +10đ) <01/07/2022>   --->   aHR0cDovL3N1Yi5rYW
 p_a_vte1 USER0031 (Minh Tuấn: Trial) <01/07/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vMTV5c1R2Vk84TTU2
 
 ----------------------------------------
+
+p_a_vte1 USER0032 (Huy Hiệu: Trial) <20/06/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vSWxodHhKbGsyalJ2
+
+----------------------------------------
