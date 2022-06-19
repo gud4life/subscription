@@ -155,7 +155,7 @@ p_s_vte1 USER0034 (Hoàng Phát: Trial) <02/07/2022>   --->   sub://aHR0cDovL3N1
 
 ----------------------------------------
 
-p_i_vte1 USER0035 (Trống: Trial) <22/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/ZIwgzui1vLOK
+p_a_vte1 USER0035 (Nghĩa Nông: Trial) <02/07/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vWkl3Z3p1aTF2TE9L
 
 ----------------------------------------
 
