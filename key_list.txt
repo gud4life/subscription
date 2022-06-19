@@ -135,7 +135,7 @@ p_a_vte1 USER0029 (N T Dũng: +10đ) <30/07/2022>   --->   aHR0cDovL3N1Yi5rYW12Z
 
 ----------------------------------------
 
-p_a_vte1 USER0030 (Đình Phúc: +10đ) <01/07/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vYjRTZkJRdEFUZk9z
+p_a_vte1 USER0030 (Đình Phúc: +10đ) <03/07/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vYjRTZkJRdEFUZk9z
 
 ----------------------------------------
 
@@ -151,7 +151,7 @@ p_a_vte1 USER0033 (Chuminhlong: +15k) <20/07/2022>   --->   aHR0cDovL3N1Yi5rYW12
 
 ----------------------------------------
 
-p_s_vte1 USER0034 (Hoàng Phát: Trial) <22/06/2022>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vQ2RvNnpsOHJVcXk0#kamVdta
+p_s_vte1 USER0034 (Hoàng Phát: Trial) <02/07/2022>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vQ2RvNnpsOHJVcXk0#kamVdta
 
 ----------------------------------------
 
