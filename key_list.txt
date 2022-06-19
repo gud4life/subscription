@@ -146,3 +146,35 @@ p_a_vte1 USER0031 (Minh Tuấn: Trial) <01/07/2022>   --->   aHR0cDovL3N1Yi5rYW1
 p_a_vte1 USER0032 (Huy Hiệu: Trial) <20/06/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vSWxodHhKbGsyalJ2
 
 ----------------------------------------
+
+p_a_vte1 USER0033 (Chuminhlong: +15k) <20/07/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vZWlVVU1nVHY2UFlU
+
+----------------------------------------
+
+p_a_vte1 USER0034 (Huy Hiệu: Trial) <20/06/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vSWxodHhKbGsyalJ2
+
+----------------------------------------
+
+p_a_vte1 USER0035 (Huy Hiệu: Trial) <20/06/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vSWxodHhKbGsyalJ2
+
+----------------------------------------
+
+p_a_vte1 USER0036 (Huy Hiệu: Trial) <20/06/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vSWxodHhKbGsyalJ2
+
+----------------------------------------
+
+p_a_vte1 USER0037 (Huy Hiệu: Trial) <20/06/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vSWxodHhKbGsyalJ2
+
+----------------------------------------
+
+p_a_vte1 USER0038 (Huy Hiệu: Trial) <20/06/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vSWxodHhKbGsyalJ2
+
+----------------------------------------
+
+p_a_vte1 USER0039 (Huy Hiệu: Trial) <20/06/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vSWxodHhKbGsyalJ2
+
+----------------------------------------
+
+p_a_vte1 USER0040 (Huy Hiệu: Trial) <20/06/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vSWxodHhKbGsyalJ2
+
+----------------------------------------
