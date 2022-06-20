@@ -163,11 +163,11 @@ p_s_vte1 USER0036 (Thế Toàn: Trial) <22/06/2022>   --->   sub://aHR0cDovL3N1Y
 
 ----------------------------------------
 
-p_s_vte1 USER0037 (Trống: Trial) <23/06/2022>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vQ0NvcWpWTko1bmtV#kamVdta
+p_s_vte1 USER0037 (Văn Linh: Trial) <23/06/2022>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vQ0NvcWpWTko1bmtV#kamVdta
 
 ----------------------------------------
 
-p_i_vte1 USER0038 (Trống: Trial) <22/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/doyqWiMYArgz
+p_a_vte1 USER0038 (Hoàng Tâm: Trial) <23/06/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vZG95cVdpTVlBcmd6
 
 ----------------------------------------
 
