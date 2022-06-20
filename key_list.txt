@@ -11,11 +11,11 @@ p_s_vte1 USER0001 (Admin: iOS) <01/01/2023>   --->   sub://aHR0cDovL3N1Yi5rYW12Z
 
 ----------------------------------------
 
-p_i_vte1 USER0002 (Phước Đạt: Free) <01/01/2023>   --->   http://sub.kamvdta.xyz:8888/down/faZIjXjkh1OD
+p_s_vte1 USER0002 (Phước Đạt: Free) <01/01/2023>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vZmFaSWpYamtoMU9E#kamVdta
 
 ----------------------------------------
 
-p_i_vte1 USER0003 (Danh: Shadow) <25/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/Whut47qPUg6Z
+p_s_vte1 USER0003 (Danh: Shadow) <25/06/2022>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vV2h1dDQ3cVBVZzZa#kamVdta
 
 ----------------------------------------
 
@@ -27,7 +27,7 @@ p_a_vte1 USER0004A (T M T: +10đ) <29/07/2022>   --->   aHR0cDovL3N1Yi5rYW12ZHRh
 
 ----------------------------------------
 
-p_i_vte1 USER0005 (Tuấn Thành: Free) <01/08/2022>   --->   http://sub.kamvdta.xyz:8888/down/rjX5mGn88wov
+p_s_vte1 USER0005 (Tuấn Thành: Free) <01/08/2022>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vcmpYNW1Hbjg4d292#kamVdta
 
 ----------------------------------------
 
@@ -39,7 +39,7 @@ p_a_vte1 USER0007 (Phạm Cường: Free) <01/01/2023>   --->   aHR0cDovL3N1Yi5r
 
 ----------------------------------------
 
-p_i_vte1 USER0008 (Shizuka: Free) <01/01/2023>   --->   http://sub.kamvdta.xyz:8888/down/8PJ9RUhQm2QM
+p_s_vte1 USER0008 (Shizuka: Free) <01/01/2023>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vOFBKOVJVaFFtMlFN#kamVdta
 
 ----------------------------------------
 
@@ -51,7 +51,7 @@ p_a_vte1 USER0010 (Hoàng Hiệp 2 + 3: +30đ +30đ) <01/10/2022>   --->   aHR0c
 
 ----------------------------------------
 
-p_i_vte1 USER0011 (Hoàng Hiệp 1: +30đ) <01/11/2022>   --->   http://sub.kamvdta.xyz:8888/down/ZHc1rrZAJiox
+p_s_vte1 USER0011 (Hoàng Hiệp 1: +30đ) <01/11/2022>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vWkhjMXJyWkFKaW94#kamVdta
 
 ----------------------------------------
 
@@ -103,7 +103,7 @@ e_s_vte1 USER0023 (Xuân Chiến: Trial) <20/06/2022>   --->   sub://aHR0cDovL3N
 
 ----------------------------------------
 
-e_s_vte1 USER0024 (Anh Tuấn: Trial) <20/06/2022>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vUUNKSjlSRlFOazNX#kamVdta
+p_s_vte1 USER0024 (Anh Tuấn: Trial) <01/07/2022>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vUUNKSjlSRlFOazNX#kamVdta
 
 ----------------------------------------
 
