@@ -1,6 +1,3 @@
-vte1: m.akamaized.net
-vte2: viettel.tiktok.com
-----------------------------------------
 
 p_a_vte1 ***USER0000*** (Admin: ADR) <01/01/2023>
 ```
