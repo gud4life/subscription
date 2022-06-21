@@ -171,7 +171,7 @@ p_a_vte1 USER0038 (Hoàng Tâm: Trial) <23/06/2022>   --->   aHR0cDovL3N1Yi5rYW1
 
 ----------------------------------------
 
-p_i_vte1 USER0039 (Trống: Trial) <22/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/2iF4x2EC20RP
+p_s_vte1 USER0039 (Trung -rm: Trial) <05/07/2022>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vMmlGNHgyRUMyMFJQ#kamVdta
 
 ----------------------------------------
 
