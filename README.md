@@ -1,9 +1,9 @@
 vte1: m.akamaized.net
 vte2: viettel.tiktok.com
-vnmb: vietnamobile.com.vn
+
 ----------------------------------------
 
-p_a_vte1 USER0000 (Admin: ADR) <01/01/2023>
+***p_a_vte1 USER0000 (Admin: ADR) <01/01/2023>
 
 ```
 aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vQXozbTljRjdkZTNYsvdddddddddddddd
@@ -11,7 +11,10 @@ aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vQXozbTljRjdkZTNYsvdddddddddddddd
 
 ----------------------------------------
 
-p_s_vte1 USER0001 (Admin: iOS) <01/01/2023>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vMGhybWJnV3QzNlpw#kamVdta
+***p_s_vte1 USER0001 (Admin: iOS) <01/01/2023>   --->   
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vMGhybWJnV3QzNlpw#kamVdta
+```
 
 ----------------------------------------
 
