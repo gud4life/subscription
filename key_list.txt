@@ -119,7 +119,7 @@ e_a_vte1 USER0026A (Hoàng Đạt: Tặng) <20/06/2022>   --->   aHR0cDovL3N1Yi5
 
 ----------------------------------------
 
-e_i_vnmb USER0026B (Hoàng Đạt: Tặng) <20/06/2022>   --->   http://sub.kamvdta.xyz:8888/down/DtPETwfUsxxM
+p_s_vnmb USER0026B (Hoàng Đạt: Tặng) <30/07/2022>   --->   sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vRHRQRVR3ZlVzeHhN#kamVdta
 
 ----------------------------------------
 
