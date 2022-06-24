@@ -360,12 +360,9 @@ http://sub.kamvdta.xyz:8888/down/tcG8dy1OwcX0
 
 ----------------------------------------
 
-e_s_vte1 ***USER0037*** (Văn Linh: Trial) <23/06/2022>
+p_a_vte1 ***USER0037*** (Minh Tuấn: Trial) <30/07/2022>
 ```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vQ0NvcWpWTko1bmtV#kamVdta
-```
-```
-http://sub.kamvdta.xyz:8888/down/CCoqjVNJ5nkU
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vOXZLTGlMZFpWVmRm
 ```
 
 ----------------------------------------
