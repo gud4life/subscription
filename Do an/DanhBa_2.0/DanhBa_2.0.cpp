@@ -1,9 +1,10 @@
 // Nam mô a di đà phật
 
-#include<conio.h>
-#include<stdio.h>
+#include <conio.h>
+#include <stdio.h>
 #include <iostream>
 #include <string.h>
+#include <unistd.h>
 #define MAX 100
 using namespace std;
 
@@ -25,7 +26,6 @@ void addLH(DB a[], int id, int n);
 void editLH(DB a[], int id, int n);
 int delLH(DB a[], int id, int n);
 void search(DB a[], char ten[], int n);
-int counter(DB a[], int n);
 void listLH(DB a[], int n);
 void listLH_name(DB a[], int n);
 int docFile(DB a[], char fileName[]);
@@ -34,6 +34,7 @@ void ghiFile(DB a[], int n, char fileName[]);
 // hàm tạo form cho chương trình
 void refresh();
 void taokhuon(int n);
+int counter(DB a[], int n);
 
 int main() {
 	// khai báo
@@ -45,7 +46,8 @@ int main() {
     char fileName[] = "danhba.db";
     soluongLH = docFile(arrayLH, fileName);
     int idCount = counter(arrayLH, soluongLH);
-
+ 
+    // Bảng menu chương trình
     while(true) {
         printf("------------ Ung Dung Danh Ba (Ngon Ngu C) ------------\n");
 		printf("------------ Coder: doandat943, ngocphuong ------------\n");
@@ -82,7 +84,8 @@ int main() {
             case 3:
             	if(soluongLH > 0) {
                     int id;
-                    printf("\n3. Sua thong tin lien he bang ID.");
+                    listLH(arrayLH, soluongLH);
+                    printf("\n3. Sua thong tin lien he bang ID.\n");
                     printf("\n Nhap ID: "); scanf("%d", &id);
                     editLH(arrayLH, id, soluongLH);
                 }else{
@@ -93,10 +96,10 @@ int main() {
             case 4:
                 if(soluongLH > 0) {
                     int id;
-                    printf("\n4. Xoa lien he bang ID.");
+                    printf("\n4. Xoa lien he bang ID.\n");
                     printf("\n Nhap ID: "); scanf("%d", &id);
                     if (delLH(arrayLH, id, soluongLH) == 1) {
-                        printf("\nlien he co id = %d da bi xoa.", &id);
+                        printf("\n Lien he co id = %d da bi xoa.", &id);
                         soluongLH--;
                     }
                 }else{
@@ -147,13 +150,17 @@ int main() {
                 switch(luu){
                         case 1:
                        	    ghiFile(arrayLH, soluongLH, fileName);
+                       	    usleep(1000*1000);
                             printf("\n  Ghi danh sach lien he vao file %s thanh cong!", fileName);
                             break;
                         case 2:
                         	printf("\n  Du lieu chua duoc luu!");
                         	break;
                 }
-                printf("\n\n  --- Bam phim bat ky de thoat ---\n");
+                usleep(1000*500);
+                printf("\n\n  --- Cam on ban da su dung ung dung cua chung toi ---\n");
+                usleep(1000*500);
+                printf("\n  --- Bam phim bat ky de thoat ---\n");
                 getch();
                 return 0;
             default:
@@ -202,7 +209,7 @@ void editLH(DB a[], int id, int n) {
         }
     }
     if (found == 0) {
-        printf("\n lien he co ID = %d khong ton tai.", id);
+        printf("\n Lien he co ID = %d khong ton tai.", id);
     }
 }
 
@@ -221,9 +228,9 @@ int delLH(DB a[], int id, int n) {
         }
     }
     if (found == 0) {
-        printf("\n lien he co ID = %d khong ton tai.", id);
+        printf("\n Lien he co ID = %d khong ton tai.", id);
         return 0;
-    } else {
+   } else {
         return 1;
     }
 }
@@ -286,20 +293,140 @@ int counter (DB a[], int n) {
     }
     return idMax;
 }
-
+// %5d%30s%30s%30s%30s%30s\n
 int docFile(DB a[], char fileName[]) {
     FILE * fp;
     int i = 0;
     fp = fopen (fileName, "r");
+    printf("       -        Bat dau xu ly du lieu         -\n");
+    usleep(1000*1000);
     printf("            Dang quet du lieu tu: "); puts(fileName);
+    usleep(1000*1000);
     printf("       ----------------------------------------\n");
-    while (fscanf(fp, "%5d%30s%30s%30s%30s%30s\n", &a[i].id, &a[i].ho, &a[i].ten, &a[i].sdt, &a[i].email, &a[i].diachi) != EOF) {
+    while (fscanf(fp, "%d%s%s%s%s%s\n", &a[i].id, &a[i].ho, &a[i].ten, &a[i].sdt, &a[i].email, &a[i].diachi) != EOF) {
        i++;
-       printf("       -        Bat dau xu ly du lieu         -\n");
-       printf("       -             Quet du lieu: %d          -\n", i);
+       printf("       -        Da quet thay %d lien he        -\n", i);
+       usleep(1000*500);
     }
-    printf("       ----------------------------------------\n          So lien he co san trong file la:  %d \n\n\n", i);
+    printf("       ----------------------------------------\n        So lien he co san trong database la:  %d \n\n", i);
     fclose (fp);
+    usleep(1000*500);
+    printf(" ");
+    usleep(1000*50);
+    printf(" ");
+    usleep(1000*50);
+    printf(" ");
+    usleep(1000*50);
+    printf(" ");
+    usleep(1000*50);
+    printf("B");
+    usleep(1000*50);
+    printf("a");
+    usleep(1000*50);
+    printf("n");
+    usleep(1000*50);
+    printf(" ");
+    usleep(1000*50);
+    printf("d");
+    usleep(1000*50);
+    printf("a");
+    usleep(1000*50);
+    printf("n");
+    usleep(1000*50);
+    printf("g");
+    usleep(1000*50);
+    printf(" ");
+    usleep(1000*50);
+    printf("s");
+    usleep(1000*50);
+    printf("u");
+    usleep(1000*50);
+    printf(" ");
+    usleep(1000*50);
+    printf("d");
+    usleep(1000*50);
+    printf("u");
+    usleep(1000*50);
+    printf("n");
+    usleep(1000*50);
+    printf("g");
+    usleep(1000*50);
+    printf(" ");
+    usleep(1000*50);
+    printf("u");
+    usleep(1000*50);
+    printf("n");
+    usleep(1000*50);
+    printf("g");
+    usleep(1000*50);
+    printf(" ");
+    usleep(1000*50);
+    printf("d");
+    usleep(1000*50);
+    printf("u");
+    usleep(1000*50);
+    printf("n");
+    usleep(1000*50);
+    printf("g");
+    usleep(1000*50);
+    printf(" ");
+    usleep(1000*50);
+    printf("D");
+    usleep(1000*50);
+    printf("A");
+    usleep(1000*50);
+    printf("N");
+    usleep(1000*50);
+    printf("H");
+    usleep(1000*50);
+    printf(" ");
+    usleep(1000*50);
+    printf("B");
+    usleep(1000*50);
+    printf("A");
+    usleep(1000*50);
+    printf(" ");
+    usleep(1000*50);
+    printf("d");
+    usleep(1000*50);
+    printf("u");
+    usleep(1000*50);
+    printf("o");
+    usleep(1000*50);
+    printf("c");
+    usleep(1000*50);
+    printf(" ");
+    usleep(1000*50);
+    printf("l");
+    usleep(1000*50);
+    printf("a");
+    usleep(1000*50);
+    printf("p");
+    usleep(1000*50);
+    printf(" ");
+    usleep(1000*50);
+    printf("t");
+    usleep(1000*50);
+    printf("r");
+    usleep(1000*50);
+    printf("i");
+    usleep(1000*50);
+    printf("n");
+    usleep(1000*50);
+    printf("h\n            ");
+    usleep(1000*200);
+    printf("b");
+    usleep(1000*50);
+    printf("o");
+    usleep(1000*50);
+    printf("i");
+    usleep(1000*50);
+    printf(" ");
+    usleep(1000*50);
+    printf("\"");
+    usleep(1000*50);
+    printf("Doan Dat va Ngoc Phuong\"\n\n");
+    usleep(1000*1000);
     return i;
 }
 
@@ -307,7 +434,7 @@ void ghiFile(DB a[], int n, char fileName[]) {
     FILE * fp;
     fp = fopen (fileName,"w");
     for(int i = 0;i < n;i++){
-        fprintf(fp, "%5d%30s%30s%30s%30s%30s\n", a[i].id, a[i].ho,a[i].ten, a[i].sdt, a[i].email, a[i].diachi);
+        fprintf(fp, "%d %s %s %s %s %s\n", a[i].id, a[i].ho,a[i].ten, a[i].sdt, a[i].email, a[i].diachi);
     }
     fclose (fp);
 }

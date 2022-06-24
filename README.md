@@ -387,7 +387,7 @@ http://sub.kamvdta.xyz:8888/down/2iF4x2EC20RP
 
 ----------------------------------------
 
-p_s_vte1 ***USER0040*** (Trống: Trial) <22/06/2022>
+p_s_vte1 ***USER0040*** (Quốc Anh: +10đ) <04/08/2022>
 ```
 sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vaHhTY3Rzd1RnU2tU#kamVdta
 ```
