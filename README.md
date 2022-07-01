@@ -67,13 +67,6 @@ http://sub.kamvdta.xyz:8888/down/D3vATluuLO8O
 
 ----------------------------------------
 
-p_a_vte1 ***USER0014*** (Phong: +10đ) <31/07/2022>
-```
-aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vN2YwOFpOek9rSjJ6
-```
-
-----------------------------------------
-
 p_s_vte1 ***USER0014A*** (Phong: +10đ) <31/07/2022>
 ```
 sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vZGdPWHUyUDBKZ2Nv#kamVdta
@@ -124,7 +117,7 @@ http://sub.kamvdta.xyz:8888/down/ULnM6iKGtoUS
 
 ----------------------------------------
 
-p_a_vin2 ***USER0029*** (N T Dũng: +10đ) <30/07/2022>
+p_a_vin1 ***USER0029*** (N T Dũng: +10đ) <30/07/2022>
 ```
 aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vTk5Xb0hxeEQxbk9l
 ```
@@ -134,6 +127,13 @@ aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vTk5Xb0hxeEQxbk9l
 p_a_vte1 ***USER0030*** (Đình Phúc: +10đ) <02/07/2022>
 ```
 aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vYjRTZkJRdEFUZk9z
+```
+
+----------------------------------------
+
+p_a_vte1 ***USER0037*** (Minh Tuấn: +20đ) <09/09/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vOXZLTGlMZFpWVmRm
 ```
 
 ----------------------------------------
@@ -199,12 +199,19 @@ http://sub.kamvdta.xyz:8888/down/Whut47qPUg6Z
 
 ----------------------------------------
 
-e_s_vte1 ***USER0005*** (Tuấn Thành: Free) <01/08/2022>
+p_s_vte1 ***USER0005*** (Tuấn Thành: Free) <01/08/2022>
 ```
 sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vcmpYNW1Hbjg4d292#kamVdta
 ```
 ```
 http://sub.kamvdta.xyz:8888/down/rjX5mGn88wov
+```
+
+----------------------------------------
+
+e_a_vte1 ***USER0014*** (Phong: +10đ) <31/07/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vN2YwOFpOek9rSjJ6
 ```
 
 ----------------------------------------
@@ -226,12 +233,39 @@ http://sub.kamvdta.xyz:8888/down/aWA1Ngd7Is22
 
 ----------------------------------------
 
-p_s_vte1 ***USER0032*** (Đức Điệp: +0đ) <30/06/2022>
+e_a_vte1 ***USER0035*** (Nghĩa Nông: Trial) <01/07/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vWkl3Z3p1aTF2TE9L
+```
+
+----------------------------------------
+
+e_s_vte1 ***USER0032*** (Đức Điệp: +0đ) <30/06/2022>
 ```
 sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vTnhGRVBuek5mVzFk#kamVdta
 ```
 ```
 http://sub.kamvdta.xyz:8888/down/NxFEPnzNfW1d
+```
+
+----------------------------------------
+
+p_s_vte1 ***USER0017*** (Chiêns Jerry: Trial) <14/07/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vUEdRbnRqdm5KSDBx#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/PGQntjvnJH0q
+```
+
+----------------------------------------
+
+b_s_vte1 ***USER0024*** (Anh Tuấn: Trial) <03/07/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vUUNKSjlSRlFOazNX#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/QCJJ9RFQNk3W
 ```
 
 ----------------------------------------
@@ -296,17 +330,7 @@ http://sub.kamvdta.xyz:8888/down/yAi502hfroZT
 
 ----------------------------------------
 
-p_s_vte1 ***USER0017*** (Chiêns Jerry: Trial) <14/07/2022>
-```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vUEdRbnRqdm5KSDBx#kamVdta
-```
-```
-http://sub.kamvdta.xyz:8888/down/PGQntjvnJH0q
-```
-
-----------------------------------------
-
-p_s_vte1 ***USER0018*** (Quang Dũng: Trial) <01/07/2022>
+e_s_vte1 ***USER0018*** (Quang Dũng: Trial) <01/07/2022>
 ```
 sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vQWxGTXYxeXByeEh4#kamVdta
 ```
@@ -316,7 +340,7 @@ http://sub.kamvdta.xyz:8888/down/AlFMv1yprxHx
 
 ----------------------------------------
 
-p_s_vte1 ***USER0021*** (Hungtran: Trial) <01/07/2022>
+e_s_vte1 ***USER0021*** (Hungtran: Trial) <01/07/2022>
 ```
 sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vUzFlR2NudzF3cHJK#kamVdta
 ```
@@ -326,17 +350,7 @@ http://sub.kamvdta.xyz:8888/down/S1eGcnw1wprJ
 
 ----------------------------------------
 
-p_s_vte1 ***USER0024*** (Anh Tuấn: Trial) <03/07/2022>
-```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vUUNKSjlSRlFOazNX#kamVdta
-```
-```
-http://sub.kamvdta.xyz:8888/down/QCJJ9RFQNk3W
-```
-
-----------------------------------------
-
-p_s_vte1 ***USER0028*** (Kadi Chan: Trial) <01/07/2022>
+e_s_vte1 ***USER0028*** (Kadi Chan: Trial) <01/07/2022>
 ```
 sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdVZjTjRnN1NVenQy#kamVdta
 ```
@@ -346,14 +360,14 @@ http://sub.kamvdta.xyz:8888/down/uVcN4g7SUzt2
 
 ----------------------------------------
 
-p_a_vte1 ***USER0031*** (Minh Tuấn: Trial) <01/07/2022>
+e_a_vte1 ***USER0031*** (Minh Tuấn: Trial) <01/07/2022>
 ```
 aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vMTV5c1R2Vk84TTU2
 ```
 
 ----------------------------------------
 
-p_s_vte1 ***USER0034*** (Hoàng Phát: Trial) <01/07/2022>
+e_s_vte1 ***USER0034*** (Hoàng Phát: Trial) <01/07/2022>
 ```
 sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vQ2RvNnpsOHJVcXk0#kamVdta
 ```
@@ -363,21 +377,7 @@ http://sub.kamvdta.xyz:8888/down/Cdo6zl8rUqy4
 
 ----------------------------------------
 
-p_a_vte1 ***USER0035*** (Nghĩa Nông: Trial) <01/07/2022>
-```
-aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vWkl3Z3p1aTF2TE9L
-```
-
-----------------------------------------
-
-p_a_vte1 ***USER0037*** (Minh Tuấn: Trial) <01/07/2022>
-```
-aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vOXZLTGlMZFpWVmRm
-```
-
-----------------------------------------
-
-p_s_vte1 ***USER0039*** (Trung -rm: Trial) <01/07/2022>
+e_s_vte1 ***USER0039*** (Trung -rm: Trial) <01/07/2022>
 ```
 sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vMmlGNHgyRUMyMFJQ#kamVdta
 ```
