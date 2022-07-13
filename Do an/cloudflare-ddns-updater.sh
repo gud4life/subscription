@@ -15,5 +15,5 @@ while read id; do
     curl -X PUT https://api.cloudflare.com/client/v4/zones/${ZONE_ID}/dns_records/${id} \
      -H "Authorization: Bearer ${TOKEN}" \
      -H "Content-Type: application/json" \
-	 --data "{\"type\":\"A\",\"name\":\"$RECORD_NAME\",\"content\":\"$ip\",\"ttl\":1,\"proxied\":false")
+	 --data "{\"type\":\"A\",\"name\":\"$RECORD_NAME\",\"content\":\"$ip\",\"ttl\":\"1\",\"proxied\":false"
 done)
