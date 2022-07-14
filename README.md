@@ -87,7 +87,7 @@ sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24va0tIc0pVOHZuc1gx#kamVdta
 ```
 http://sub.kamvdta.xyz:8888/down/kKHsJU8vnsX1
 ```
- <15/07/2022> (Phước Nghia: Trial)
+ <20/09/2022> (Phước Nghia: +20 nợ)
 ----------------------------------------
 
 p_a_vte1 ***USR0009***
@@ -175,11 +175,14 @@ http://sub.kamvdta.xyz:8888/down/WvR7ahQXvCTy
  <01/08/2022> (Hào: +0đ)
 ----------------------------------------
 
-b_a_vte1 ***USR0019***
+p_s_vte1 ***USR0019***
 ```
-aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vZDF1THlsQkswaXFV
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vZDF1THlsQkswaXFV#kamVdta
 ```
- <01/08/2022> (Trống: +0đ)
+```
+http://sub.kamvdta.xyz:8888/down/d1uLylBK0iqU
+```
+ <20/08/2022> (Giang Nguyễn: +10đ)
 ----------------------------------------
 
 b_s_vte1 ***USR0020***
