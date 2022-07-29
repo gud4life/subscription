@@ -53,7 +53,7 @@ http://sub.kamvdta.xyz:8888/down/0TuBFR57oAwJ
 ```
 ----------------------------------------
 
-p_s_vte1 ***USR0006*** <15/08/2022> (Tấn Phát: +10đ)
+p_s_vte2 ***USR0006*** <15/08/2022> (Tấn Phát: +10đ)
 ```
 sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vQ0tDa3R5VnBFWUZC#kamVdta
 ```
@@ -62,7 +62,7 @@ http://sub.kamvdta.xyz:8888/down/CKCktyVpEYFB
 ```
 ----------------------------------------
 
-p_s_vte1 ***USR0007*** <05/08/2023> (Anh Tuấn: +100đ)
+p_s_vte2 ***USR0007*** <05/08/2023> (Anh Tuấn: +100đ)
 ```
 sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vTEx5amthVVRXbjhY#kamVdta
 ```
@@ -146,12 +146,9 @@ http://sub.kamvdta.xyz:8888/down/hL5meAsV0ure
 ```
 ----------------------------------------
 
-e_s_vte1 ***USR0018*** <01/08/2022> (Hào: +0đ)
+b_a_vte2 ***USR0018*** <01/08/2022> (Hungtran: +0đ)
 ```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vV3ZSN2FoUVh2Q1R5#kamVdta
-```
-```
-http://sub.kamvdta.xyz:8888/down/WvR7ahQXvCTy
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vVUNuNm5ZWVBqTlFC
 ```
 ----------------------------------------
 
