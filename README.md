@@ -1,216 +1,465 @@
 ----------------------------------------
-p_a_vte2 ***ADM000A*** <01/01/2023> (Admin: ADR)
+p_a_vte2 ***USER0001A*** <01/08/2022>
 ```
-aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vejJhUUNlR0RKa3R0
-```
-----------------------------------------
-
-p_s_vte1 ***ADM000B*** <01/01/2023> (Admin: iOS)
-```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vWTFzbzltRlBmSktP#kamVdta
-```
-```
-http://sub.kamvdta.xyz:8888/down/Y1so9mFPfJKO
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vNWRaYXJ3V2Q0YkY0
 ```
 ----------------------------------------
 
-p_s_vte1 ***USR0001*** <01/11/2022> (Hoàng Hiệp 1: +30đ)
+p_s_vte2 ***USER0001B*** <01/08/2022>
 ```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vSWZXT21Zck9WVk9R#kamVdta
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24veUtYRWdFMGV6SmlV#kamVdta
 ```
 ```
-http://sub.kamvdta.xyz:8888/down/IfWOmYrOVVOQ
-```
-----------------------------------------
-
-p_a_vte1 ***USR0002*** <01/10/2022> (Hoàng Hiệp 2 + 3: +30đ +30đ)
-```
-aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdG1CbDZweWRreld0
+http://sub.kamvdta.xyz:8888/down/yKXEgE0ezJiU
 ```
 ----------------------------------------
 
-p_s_vte1 ***USR0003*** <01/10/2022> (Quang: +27đ)
+p_a_vte2 ***USER0002A*** <02/08/2022>
 ```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24va0pJbDFFeXRDd2JB#kamVdta
-```
-```
-http://sub.kamvdta.xyz:8888/down/kJIl1EytCwbA
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vU1ZRdWN6OG9OckZS
 ```
 ----------------------------------------
 
-p_a_vte1 ***USR0004*** <10/09/2022> (Minh Tuấn: +20đ)
+p_s_vte2 ***USER0002B*** <02/08/2022>
 ```
-aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24va1IxeXB1R0NDeGRF
-```
-----------------------------------------
-
-p_s_vte1 ***USR0005*** <01/09/2022> (Huy Tỉnh: +10đ)
-```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vMFR1QkZSNTdvQXdK#kamVdta
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vS1ZwYTN4VXRtc1o5#kamVdta
 ```
 ```
-http://sub.kamvdta.xyz:8888/down/0TuBFR57oAwJ
+http://sub.kamvdta.xyz:8888/down/KVpa3xUtmsZ9
 ```
 ----------------------------------------
 
-p_s_vte2 ***USR0006*** <15/08/2022> (Tấn Phát: +10đ)
+p_a_vte2 ***USER0003A*** <03/08/2022>
 ```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vQ0tDa3R5VnBFWUZC#kamVdta
-```
-```
-http://sub.kamvdta.xyz:8888/down/CKCktyVpEYFB
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vTHNQUFduTkNubHJm
 ```
 ----------------------------------------
 
-p_s_vte2 ***USR0007*** <05/08/2023> (Anh Tuấn: +100đ)
+p_s_vte2 ***USER0003B*** <03/08/2022>
 ```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vTEx5amthVVRXbjhY#kamVdta
-```
-```
-http://sub.kamvdta.xyz:8888/down/LLyjkaUTWn8X
-```
-----------------------------------------
-
-p_s_vte1 ***USR0008*** <20/09/2022> (Phước Nghĩa: +20đ)
-```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24va0tIc0pVOHZuc1gx#kamVdta
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vMXp3V3BFcnNMWW00#kamVdta
 ```
 ```
-http://sub.kamvdta.xyz:8888/down/kKHsJU8vnsX1
+http://sub.kamvdta.xyz:8888/down/1zwWpErsLYm4
 ```
 ----------------------------------------
 
-p_a_vte1 ***USR0009*** <05/08/2022> (T M T: +10đ)
+p_a_vte2 ***USER0004A*** <04/08/2022>
 ```
-aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vZHNQVVlNTm85cDZx
-```
-----------------------------------------
-
-p_a_vte1 ***USR0010*** <05/08/2022> (Ngày Không Em: +80đ)
-```
-aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vQm5OR01LZXRleTRs
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdVFIRFZhdGkyMVNi
 ```
 ----------------------------------------
 
-p_s_vte2 ***USR0011*** <05/09/2022> (Phong: +10đ)
+p_s_vte2 ***USER0004B*** <04/08/2022>
 ```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vVWRJakgzR0R4Snlj#kamVdta
-```
-```
-http://sub.kamvdta.xyz:8888/down/UdIjH3GDxJyc
-```
-----------------------------------------
-
-p_s_vte1 ***USR0012*** <05/08/2022> (Trần Hậu: +10đ)
-```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vS2dldjM1Q2IwYXdo#kamVdta
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vOXdSRTY5bGhpZGlv#kamVdta
 ```
 ```
-http://sub.kamvdta.xyz:8888/down/Kgev35Cb0awh
+http://sub.kamvdta.xyz:8888/down/9wRE69lhidio
 ```
 ----------------------------------------
 
-p_s_vte1 ***USR0013*** <05/08/2022> (Hoàng Đạt: +10đ)
+p_a_vte2 ***USER0005A*** <05/08/2022>
 ```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vVzBIZjQwTE5LazIz#kamVdta
-```
-```
-http://sub.kamvdta.xyz:8888/down/W0Hf40LNKk23
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vc2hxQjNYRjFlaktH
 ```
 ----------------------------------------
 
-p_a_vin1 ***USR0014*** <05/08/2022> (N T Dũng: +10đ)
+p_s_vte2 ***USER0005B*** <05/08/2022>
 ```
-aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vRHNHejdIWEZ3WERw
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vTEh1TFBqaHRuSm1C#kamVdta
 ```
-----------------------------------------
-
-p_a_vte1 ***USR0015*** <05/08/2022> (Minh Quân: +10đ)
 ```
-aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24veEhMUkt4V0h3MjJm
+http://sub.kamvdta.xyz:8888/down/LHuLPjhtnJmB
 ```
 ----------------------------------------
 
-p_a_vte1 ***USR0016*** <05/08/2022> (Ng Hiệp: +10đ)
+p_a_vte2 ***USER0006A*** <06/08/2022>
 ```
-aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vMlpWUHhEdDl6NUhh
-```
-----------------------------------------
-
-p_s_vte1 ***USR0017*** <05/08/2022> (Quốc Anh: +10đ)
-```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vaEw1bWVBc1YwdXJl#kamVdta
-```
-```
-http://sub.kamvdta.xyz:8888/down/hL5meAsV0ure
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vZWNXOWRtY004VWlW
 ```
 ----------------------------------------
 
-b_a_vte2 ***USR0018*** <01/08/2022> (Hungtran: +0đ)
+p_s_vte2 ***USER0006B*** <06/08/2022>
 ```
-aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vVUNuNm5ZWVBqTlFC
-```
-----------------------------------------
-
-p_s_vte1 ***USR0019*** <20/08/2022> (Giang Nguyễn: +10đ)
-```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vZDF1THlsQkswaXFV#kamVdta
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vSDFub1djNHVwTHMz#kamVdta
 ```
 ```
-http://sub.kamvdta.xyz:8888/down/d1uLylBK0iqU
+http://sub.kamvdta.xyz:8888/down/H1noWc4upLs3
 ```
 ----------------------------------------
 
-b_s_vte1 ***USR0020*** <01/08/2022> (Trống: +0đ)
+p_a_vte2 ***USER0007A*** <07/08/2022>
 ```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vcHpPaUlQZXRKUUxx#kamVdta
-```
-```
-http://sub.kamvdta.xyz:8888/down/pzOiIPetJQLq
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vUWo3cVNaSk1ZMzNr
 ```
 ----------------------------------------
 
-b_s_vte1 ***USR0021*** <01/08/2022> (Trống: +0đ)
+p_s_vte2 ***USER0007B*** <07/08/2022>
 ```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vVzBndkR6ZjJxbzRM#kamVdta
-```
-```
-http://sub.kamvdta.xyz:8888/down/W0gvDzf2qo4L
-```
-----------------------------------------
-
-b_s_vte1 ***USR0022*** <01/08/2022> (Trống: +0đ)
-```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdVBweWk1T1lNN0N3#kamVdta
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdGwwQlMwbnZOSHJP#kamVdta
 ```
 ```
-http://sub.kamvdta.xyz:8888/down/uPpyi5OYM7Cw
+http://sub.kamvdta.xyz:8888/down/tl0BS0nvNHrO
 ```
 ----------------------------------------
 
-b_s_vte1 ***USR0023*** <01/08/2022> (Trống: +0đ)
+p_a_vte2 ***USER0008A*** <08/08/2022>
 ```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdGpTRHVsa1dpc0NX#kamVdta
-```
-```
-http://sub.kamvdta.xyz:8888/down/tjSDulkWisCW
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vaHRpbTJLMklxWEps
 ```
 ----------------------------------------
 
-b_s_vte1 ***USR0024*** <01/08/2022> (Trống: +0đ)
+p_s_vte2 ***USER0008B*** <08/08/2022>
 ```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vc1d6UjQ2NmE2SVAz#kamVdta
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vVjhBSTJJTFI4NTdO#kamVdta
 ```
 ```
-http://sub.kamvdta.xyz:8888/down/sWzR466a6IP3
+http://sub.kamvdta.xyz:8888/down/V8AI2ILR857N
 ```
 ----------------------------------------
 
-b_s_vte1 ***USR0025*** <01/08/2022> (Trống: +0đ)
+p_a_vte2 ***USER0009A*** <09/08/2022>
 ```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vVERqaWFjNEgxN1VH#kamVdta
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vclZzUmIwTEhqdno1
+```
+----------------------------------------
+
+p_s_vte2 ***USER0009B*** <09/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vd1ZwdVI3MGd3VGhC#kamVdta
 ```
 ```
-http://sub.kamvdta.xyz:8888/down/TDjiac4H17UG
+http://sub.kamvdta.xyz:8888/down/wVpuR70gwThB
+```
+----------------------------------------
+
+p_a_vte2 ***USER0010A*** <10/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vTm9uR3V4SVlpMWMy
+```
+----------------------------------------
+
+p_s_vte2 ***USER0010B*** <10/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vcHhWZkJaZ2RQd05U#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/pxVfBZgdPwNT
+```
+----------------------------------------
+
+p_a_vte2 ***USER0011A*** <11/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24valB6dXhkMnhNSG1x
+```
+----------------------------------------
+
+p_s_vte2 ***USER0011B*** <11/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vR0hyY0JSR2hJUHln#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/GHrcBRGhIPyg
+```
+----------------------------------------
+
+p_a_vte2 ***USER0012A*** <12/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vVlBkSjA4Sll0VHZa
+```
+----------------------------------------
+
+p_s_vte2 ***USER0012B*** <12/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vQm5pbExUVld3bUpL#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/BnilLTVWwmJK
+```
+----------------------------------------
+
+p_a_vte2 ***USER0013A*** <13/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdXRMQ1JWaVBkT2dV
+```
+----------------------------------------
+
+p_s_vte2 ***USER0013B*** <13/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vcmVDT2VHRloxbGM1#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/reCOeGFZ1lc5
+```
+----------------------------------------
+
+p_a_vte2 ***USER0014A*** <14/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vd1Z2NnhVUEpNMWVz
+```
+----------------------------------------
+
+p_s_vte2 ***USER0014B*** <14/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdVlSbGNGSmtlN2J4#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/uYRlcFJke7bx
+```
+----------------------------------------
+
+p_a_vte2 ***USER0015A*** <15/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vcWlaRm85WEJBM2tO
+```
+----------------------------------------
+
+p_s_vte2 ***USER0015B*** <15/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vUWFtb2h3OGRxWkNH#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/Qamohw8dqZCG
+```
+----------------------------------------
+
+p_a_vte2 ***USER0016A*** <16/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vUGlSYnFZd3JjMkt5
+```
+----------------------------------------
+
+p_s_vte2 ***USER0016B*** <16/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vN1plV0JnTXdGWk1s#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/7ZeWBgMwFZMl
+```
+----------------------------------------
+
+p_a_vte2 ***USER0017A*** <17/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24veGxRRWpEbzB5ZHlz
+```
+----------------------------------------
+
+p_s_vte2 ***USER0017B*** <17/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vTlF5dGlrQzhiRlFR#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/NQytikC8bFQQ
+```
+----------------------------------------
+
+p_a_vte2 ***USER0018A*** <18/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vZENKdzMwbW9XZVlL
+```
+----------------------------------------
+
+p_s_vte2 ***USER0018B*** <18/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vcEhMTWJ6QXZPMU94#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/pHLMbzAvO1Ox
+```
+----------------------------------------
+
+p_a_vte2 ***USER0019A*** <19/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vSjl3aGN2bnRuSnFo
+```
+----------------------------------------
+
+p_s_vte2 ***USER0019B*** <19/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vUEVOSU9KbmhBRmVV#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/PENIOJnhAFeU
+```
+----------------------------------------
+
+p_a_vte2 ***USER0020A*** <20/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vRWRXYjVNSGVMSlEz
+```
+----------------------------------------
+
+p_s_vte2 ***USER0020B*** <20/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vSmpGM096QUZGbjlr#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/JjF3OzAFFn9k
+```
+----------------------------------------
+
+p_a_vte2 ***USER0021A*** <21/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vQVRDdXBoQXk0Tktn
+```
+----------------------------------------
+
+p_s_vte2 ***USER0021B*** <21/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vV2ZtNmt2bDZRVFda#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/Wfm6kvl6QTWZ
+```
+----------------------------------------
+
+p_a_vte2 ***USER0022A*** <22/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vWElJTmhxY0J4b3RY
+```
+----------------------------------------
+
+p_s_vte2 ***USER0022B*** <22/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vZlBHZHdROGdDcG5L#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/fPGdwQ8gCpnK
+```
+----------------------------------------
+
+p_a_vte2 ***USER0023A*** <23/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vWnZCNjBvemI2YXhY
+```
+----------------------------------------
+
+p_s_vte2 ***USER0023B*** <23/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vbk1Oa3o4a1VHaXFH#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/nMNkz8kUGiqG
+```
+----------------------------------------
+
+p_a_vte2 ***USER0024A*** <24/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vV0FydEZnNXZ6dXhS
+```
+----------------------------------------
+
+p_s_vte2 ***USER0024B*** <24/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdHQ2UE5RTmpjY1FL#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/tt6PNQNjccQK
+```
+----------------------------------------
+
+p_a_vte2 ***USER0025A*** <25/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vUHhXMEsyS3luR0hQ
+```
+----------------------------------------
+
+p_s_vte2 ***USER0025B*** <25/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vT1NuWEYybTlIR3Nq#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/OSnXF2m9HGsj
+```
+----------------------------------------
+
+p_a_vte2 ***USER0026A*** <26/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdUhNZmwzVGh2bmdB
+```
+----------------------------------------
+
+p_s_vte2 ***USER0026B*** <26/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vR2FMVFduNUZ4MUdL#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/GaLTWn5Fx1GK
+```
+----------------------------------------
+
+p_a_vte2 ***USER0027A*** <27/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vaEFjTmU2RFFuOVdM
+```
+----------------------------------------
+
+p_s_vte2 ***USER0027B*** <27/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24veDNYYWtDS2hhdVFa#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/x3XakCKhauQZ
+```
+----------------------------------------
+
+p_a_vte2 ***USER0028A*** <28/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vNFlnN0tUNk1JV3Zm
+```
+----------------------------------------
+
+p_s_vte2 ***USER0028B*** <28/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vM0ZqYVZQSFcxd0FU#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/3FjaVPHW1wAT
+```
+----------------------------------------
+
+p_a_vte2 ***USER0029A*** <29/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vVVV6VWJOemFPU1lU
+```
+----------------------------------------
+
+p_s_vte2 ***USER0029B*** <29/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vVFN5cTlsM2tVSUlO#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/TSyq9l3kUIIN
+```
+----------------------------------------
+
+p_a_vte2 ***USER0030A*** <30/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vMlIzdWJhU1lnekJL
+```
+----------------------------------------
+
+p_s_vte2 ***USER0030B*** <30/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vclBQMkdadkJkOUU0#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/rPP2GZvBd9E4
+```
+----------------------------------------
+
+p_a_vte2 ***USER0031A*** <31/08/2022>
+```
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vcGJ3a0Q5dlJrNU42
+```
+----------------------------------------
+
+p_s_vte2 ***USER0031B*** <31/08/2022>
+```
+sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vc3czNFR6UlI3Q0lO#kamVdta
+```
+```
+http://sub.kamvdta.xyz:8888/down/sw34TzRR7CIN
 ```
 ----------------------------------------
