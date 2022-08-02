@@ -179,12 +179,9 @@ aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vVzBndkR6ZjJxbzRM
 ```
 ----------------------------------------
 
-b_s_vte1 ***USR0022*** <05/08/2022> (Nguyễn Trọng: +0đ)
+b_a_vte1 ***USR0022*** <05/08/2022> (Nguyễn Trọng: +0đ)
 ```
-sub://aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdVBweWk1T1lNN0N3#kamVdta
-```
-```
-http://sub.kamvdta.xyz:8888/down/uPpyi5OYM7Cw
+aHR0cDovL3N1Yi5rYW12ZHRhLnh5ejo4ODg4L2Rvd24vdVBweWk1T1lNN0N3
 ```
 ----------------------------------------
 
